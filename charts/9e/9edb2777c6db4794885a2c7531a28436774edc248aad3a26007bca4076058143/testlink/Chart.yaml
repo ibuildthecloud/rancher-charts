@@ -1,0 +1,15 @@
+description: Web-based test management system that facilitates software quality assurance.
+engine: gotpl
+home: http://www.testlink.org/
+keywords:
+- testlink
+- testing
+- http
+- php
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: testlink
+sources:
+- https://github.com/bitnami/bitnami-docker-testlink
+version: 0.4.1

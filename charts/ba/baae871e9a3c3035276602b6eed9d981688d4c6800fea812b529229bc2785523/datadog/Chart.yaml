@@ -1,0 +1,17 @@
+description: DataDog Agent
+home: https://www.datadoghq.com
+icon: https://datadog-live.imgix.net/img/dd_logo_70x75.png
+keywords:
+- monitoring
+- alerting
+- metric
+maintainers:
+- email: gtaylor@gc-taylor.com
+  name: gtaylor
+- email: haissam@datadoghq.com
+  name: hkaj
+name: datadog
+sources:
+- https://app.datadoghq.com/account/settings#agent/kubernetes
+- https://github.com/DataDog/docker-dd-agent
+version: 0.8.4

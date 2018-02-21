@@ -1,0 +1,18 @@
+description: One of the most versatile open source content management systems.
+engine: gotpl
+home: http://www.drupal.org/
+keywords:
+- drupal
+- cms
+- blog
+- http
+- web
+- application
+- php
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: drupal
+sources:
+- https://github.com/bitnami/bitnami-docker-drupal
+version: 0.3.6

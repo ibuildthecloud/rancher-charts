@@ -1,0 +1,10 @@
+dependencies:
+- condition: ""
+  enabled: false
+  import-values: null
+  name: mariadb
+  repository: https://kubernetes-charts.storage.googleapis.com/
+  tags: null
+  version: 0.7.0
+digest: sha256:7b54333c1095dabd45a6d18205b87aae280c7ba4463bc839a43a7155469bd127
+generated: 2017-08-13T18:03:30.206535949Z

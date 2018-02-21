@@ -1,0 +1,11 @@
+apiVersion: v1
+deprecated: true
+description: DEPRECATED Automatically requests certificates from Let's Encrypt
+engine: gotpl
+keywords:
+- kube-lego
+- letsencrypt
+name: kube-lego
+sources:
+- https://github.com/jetstack/kube-lego/tree/master/examples/nginx
+version: 0.4.0

@@ -1,0 +1,14 @@
+description: Open-source web application written in Go and React.js that provides
+  the tools to visualize your monitoring data and easily create alerting and automation
+  rules.
+engine: gotpl
+home: https://www.influxdata.com/time-series-platform/chronograf/
+keywords:
+- chronograf
+- visualizaion
+- timeseries
+maintainers:
+- email: jack@influxdb.com
+  name: Jack Zampolin
+name: chronograf
+version: 0.4.2

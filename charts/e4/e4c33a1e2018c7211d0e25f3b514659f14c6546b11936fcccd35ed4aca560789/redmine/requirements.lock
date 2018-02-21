@@ -1,0 +1,9 @@
+dependencies:
+- name: mariadb
+  repository: https://kubernetes-charts.storage.googleapis.com/
+  version: 0.6.0
+- name: postgresql
+  repository: https://kubernetes-charts.storage.googleapis.com/
+  version: 0.6.0
+digest: sha256:454d8f796ab296e1a542be56b1a2bf1d85d58b6c0a45b437ff75b199588b68b0
+generated: 2017-05-22T13:48:29.96553626Z

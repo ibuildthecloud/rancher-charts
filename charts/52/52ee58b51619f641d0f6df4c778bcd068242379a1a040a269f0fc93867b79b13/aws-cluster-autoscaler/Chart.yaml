@@ -1,0 +1,10 @@
+apiVersion: v1
+description: Scales worker nodes within autoscaling groups.
+engine: gotpl
+maintainers:
+- email: mgoodness@gmail.com
+  name: Michael Goodness
+name: aws-cluster-autoscaler
+sources:
+- https://github.com/kubernetes/contrib/tree/master/cluster-autoscaler/cloudprovider/aws
+version: 0.2.0

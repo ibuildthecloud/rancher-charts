@@ -1,0 +1,22 @@
+apiVersion: v1
+appVersion: 1.0.0-30
+description: A chart for deploying omsagent as a daemonset Kubernetes
+home: https://azure.microsoft.com/en-us/services/log-analytics/
+icon: https://lh3.googleusercontent.com/e7ioSomM1-cRX_4fkSpN-rVl7C9cngTh65CF6nLPqE8LIVqMHnw_-fuNPAbQphixo4ge=w300-rw
+keywords:
+- monitoring
+- alerting
+- metric
+- event
+- logging
+maintainers:
+- email: samis@microsoft.com
+  name: Sambit Mishra
+- email: keikhara@microsoft.com
+  name: Keiko Harada
+name: msoms
+sources:
+- https://github.com/Microsoft/OMS-docker
+- https://github.com/Microsoft/OMS-Agent-for-Linux
+- https://github.com/Microsoft/Docker-Provider
+version: 0.1.2

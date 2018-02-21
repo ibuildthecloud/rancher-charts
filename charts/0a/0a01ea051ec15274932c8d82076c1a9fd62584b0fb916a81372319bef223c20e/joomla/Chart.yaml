@@ -1,0 +1,16 @@
+description: PHP content management system (CMS) for publishing web content
+engine: gotpl
+home: http://www.joomla.org/
+keywords:
+- joomla
+- cms
+- blog
+- http
+- php
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: joomla
+sources:
+- https://github.com/bitnami/bitnami-docker-joomla
+version: 0.4.0

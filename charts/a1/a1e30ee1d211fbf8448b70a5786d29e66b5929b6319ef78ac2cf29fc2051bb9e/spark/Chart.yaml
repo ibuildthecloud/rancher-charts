@@ -1,0 +1,11 @@
+description: Fast and general-purpose cluster computing system.
+home: http://spark.apache.org
+icon: http://spark.apache.org/images/spark-logo-trademark.png
+maintainers:
+- email: lachlan.evenson@gmail.com
+  name: Lachlan Evenson
+name: spark
+sources:
+- https://github.com/kubernetes/kubernetes/tree/master/examples/spark
+- https://github.com/apache/spark
+version: 0.1.10

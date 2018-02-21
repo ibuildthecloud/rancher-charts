@@ -1,0 +1,15 @@
+deprecated: true
+description: Telegraf is an agent written in Go for collecting, processing, aggregating,
+  and writing metrics.
+engine: gotpl
+home: https://www.influxdata.com/time-series-platform/telegraf/
+keywords:
+- telegraf
+- collector
+- timeseries
+- influxdata
+maintainers:
+- email: jack@influxdb.com
+  name: Jack Zampolin
+name: telegraf
+version: 0.3.2

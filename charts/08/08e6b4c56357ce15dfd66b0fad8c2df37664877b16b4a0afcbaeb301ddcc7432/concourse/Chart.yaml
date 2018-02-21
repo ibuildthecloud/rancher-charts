@@ -1,0 +1,15 @@
+description: Concourse Helm chart for Kubernetes.
+engine: gotpl
+home: https://concourse.ci/
+keywords:
+- ci
+- concourse
+- concourse.ci
+maintainers:
+- email: frodenas@gmail.com
+  name: Ferran Rodenas
+name: concourse
+sources:
+- https://github.com/concourse/bin
+- https://github.com/kubernetes/charts
+version: 0.1.0

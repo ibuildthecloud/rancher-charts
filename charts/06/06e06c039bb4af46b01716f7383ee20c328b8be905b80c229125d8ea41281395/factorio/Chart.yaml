@@ -1,0 +1,13 @@
+description: Factorio dedicated server.
+home: https://www.factorio.com/
+icon: https://us1.factorio.com/assets/img/factorio-logo.png
+keywords:
+- game
+- server
+maintainers:
+- email: gtaylor@gc-taylor.com
+  name: Greg Taylor
+name: factorio
+sources:
+- https://github.com/games-on-k8s/docker-factorio
+version: 0.3.0

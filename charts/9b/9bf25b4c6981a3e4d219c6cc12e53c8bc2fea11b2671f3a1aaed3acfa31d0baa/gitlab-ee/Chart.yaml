@@ -1,0 +1,19 @@
+deprecated: true
+description: GitLab Enterprise Edition
+home: https://about.gitlab.com
+icon: https://gitlab.com/uploads/group/avatar/6543/gitlab-logo-square.png
+keywords:
+- git
+- ci
+- deploy
+- issue tracker
+- code review
+- wiki
+maintainers:
+- email: contact@quent.in
+  name: Quentin Rousseau
+name: gitlab-ee
+sources:
+- https://hub.docker.com/r/gitlab/gitlab-ee/
+- https://docs.gitlab.com/omnibus/
+version: 0.2.1

@@ -1,0 +1,16 @@
+description: Extremely powerful, scalable software and a feature-rich wiki implementation
+  that uses PHP to process and display data stored in a database.
+engine: gotpl
+home: http://www.mediawiki.org/
+keywords:
+- mediawiki
+- wiki
+- http
+- php
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: mediawiki
+sources:
+- https://github.com/bitnami/bitnami-docker-mediawiki
+version: 0.4.0

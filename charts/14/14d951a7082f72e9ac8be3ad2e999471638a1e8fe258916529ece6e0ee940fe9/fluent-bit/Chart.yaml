@@ -1,0 +1,15 @@
+description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
+home: http://fluentbit.io
+icon: http://fluentbit.io/assets/img/logo1-default.png
+keywords:
+- fluent
+- bit
+maintainers:
+- email: eduardo@treasure-data.com
+  name: edsiper
+- email: Kevin.Fox@pnnl.gov
+  name: kfox1111
+name: fluent-bit
+sources:
+- http://fluentbit.io
+version: 0.1.0
