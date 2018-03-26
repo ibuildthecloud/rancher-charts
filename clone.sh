@@ -19,6 +19,8 @@ download_image()
     ln -s ../../images/$HASH $TMP/$(basename $ICON)
 }
 
+curl -sfL $URL > cached.yaml
+
 while read DIGEST TGZ ICON; do
     PREFIX=${DIGEST:0:2}
     FOLDER=${PREFIX}/${DIGEST}
@@ -38,4 +40,4 @@ while read DIGEST TGZ ICON; do
     mkdir -p $PREFIX
     mv $TMP $FOLDER
     rm -rf $TMP
-done < <(curl -sfL $URL | ruby -ryaml -rjson -e 'puts JSON.pretty_generate(YAML.load(ARGF))' | jq -r '.entries[][]|"\(.digest) \(.urls[0]) \(.icon)"')
+done < <(cat cached.yaml | ruby -ryaml -rjson -e 'puts JSON.pretty_generate(YAML.load(ARGF))' | jq -r '.entries[][]|"\(.digest) \(.urls[0]) \(.icon)"')

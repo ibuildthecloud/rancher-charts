@@ -1,0 +1,8 @@
+deprecated: true
+description: 'DEPRECATED: Distributed computation in Python'
+home: https://github.com/dask/distributed
+icon: https://avatars3.githubusercontent.com/u/17131925?v=3&s=200
+name: dask-distributed
+sources:
+- https://github.com/dask/distributed
+version: 2.0.1

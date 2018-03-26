@@ -1,0 +1,21 @@
+appVersion: 2.7.2
+description: Parse is a platform that enables users to add a scalable and powerful
+  backend to launch a full-featured app for iOS, Android, JavaScript, Windows, Unity,
+  and more.
+engine: gotpl
+home: https://parse.com/
+keywords:
+- parse
+- backend
+- serverless
+- platform
+- mbaas
+- mobile
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: parse
+sources:
+- https://github.com/bitnami/bitnami-docker-parse
+- https://github.com/bitnami/bitnami-docker-parse-dashboard
+version: 0.3.6

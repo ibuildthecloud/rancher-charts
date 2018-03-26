@@ -1,0 +1,15 @@
+description: Sumologic Log Collector
+home: https://github.com/SumoLogic/fluentd-kubernetes-sumologic
+icon: https://www.sumologic.com/wp-content/uploads/logo_light-theme.png
+keywords:
+- monitoring
+- logging
+maintainers:
+- email: techops@adaptly.com
+  name: flah00
+- email: freno@sumologic.com
+  name: frankreno
+name: sumologic-fluentd
+sources:
+- https://github.com/SumoLogic/fluentd-kubernetes-sumologic
+version: 0.3.0

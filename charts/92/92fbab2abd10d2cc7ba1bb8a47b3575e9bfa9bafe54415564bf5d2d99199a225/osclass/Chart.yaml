@@ -1,0 +1,19 @@
+appVersion: 3.7.4
+description: Osclass is a php script that allows you to quickly create and manage
+  your own free classifieds site.
+engine: gotpl
+home: https://osclass.org/
+icon: https://bitnami.com/assets/stacks/osclass/img/osclass-stack-110x117.png
+keywords:
+- osclass
+- classifieds
+- http
+- web
+- php
+maintainers:
+- email: containers@bitnami.com
+  name: bitnami-bot
+name: osclass
+sources:
+- https://github.com/bitnami/bitnami-docker-osclass
+version: 0.5.2

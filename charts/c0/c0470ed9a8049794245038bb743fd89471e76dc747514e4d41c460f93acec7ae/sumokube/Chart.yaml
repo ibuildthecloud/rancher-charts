@@ -1,0 +1,13 @@
+description: Sumologic Log Collector
+keywords:
+- monitoring
+- logging
+maintainers:
+- email: jdumars+github@gmail.com
+  name: Jason DuMars
+- email: knoxville+github@gmail.com
+  name: Sean Knox
+name: sumokube
+sources:
+- https://github.com/SumoLogic/sumologic-collector-docker
+version: 0.1.2

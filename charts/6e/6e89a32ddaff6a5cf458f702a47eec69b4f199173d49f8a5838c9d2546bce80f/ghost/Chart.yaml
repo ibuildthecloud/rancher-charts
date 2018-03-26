@@ -1,0 +1,21 @@
+appVersion: 1.21.5
+description: A simple, powerful publishing platform that allows you to share your
+  stories with the world
+engine: gotpl
+home: http://www.ghost.org/
+icon: https://bitnami.com/assets/stacks/ghost/img/ghost-stack-220x234.png
+keywords:
+- ghost
+- blog
+- http
+- web
+- application
+- nodejs
+- javascript
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: ghost
+sources:
+- https://github.com/bitnami/bitnami-docker-ghost
+version: 2.1.16

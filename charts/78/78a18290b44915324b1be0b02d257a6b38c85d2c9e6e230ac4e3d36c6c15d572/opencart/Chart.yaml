@@ -1,0 +1,19 @@
+appVersion: 3.0.2
+description: A free and open source e-commerce platform for online merchants. It provides
+  a professional and reliable foundation for a successful online store.
+engine: gotpl
+home: https://opencart.com/
+icon: https://bitnami.com/assets/stacks/opencart/img/opencart-stack-110x117.png
+keywords:
+- opencart
+- e-commerce
+- http
+- web
+- php
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: opencart
+sources:
+- https://github.com/bitnami/bitnami-docker-opencart
+version: 0.7.0

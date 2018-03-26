@@ -1,0 +1,17 @@
+appVersion: 7.9.12
+description: SuiteCRM is a completely open source enterprise-grade Customer Relationship
+  Management (CRM) application. SuiteCRM is a software fork of the popular customer
+  relationship management (CRM) system SugarCRM.
+engine: gotpl
+home: http://www.suitecrm.com
+icon: https://bitnami.com/assets/stacks/osclass/img/osclass-stack-110x117.png
+keywords:
+- suitecrm
+- CRM
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: suitecrm
+sources:
+- https://github.com/bitnami/bitnami-docker-suitecrm
+version: 0.3.7
