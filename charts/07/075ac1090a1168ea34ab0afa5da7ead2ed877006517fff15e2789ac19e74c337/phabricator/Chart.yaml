@@ -1,0 +1,27 @@
+appVersion: 2018.8.0
+description: Collection of open source web applications that help software companies
+  build better software.
+engine: gotpl
+home: https://www.phacility.com/phabricator/
+icon: https://bitnami.com/assets/stacks/phabricator/img/phabricator-stack-110x117.png
+keywords:
+- phabricator
+- http
+- https
+- web
+- application
+- collaboration
+- project management
+- bug tracking
+- code review
+- wiki
+- git
+- mercurial
+- subversion
+maintainers:
+- email: containers@bitnami.com
+  name: bitnami-bot
+name: phabricator
+sources:
+- https://github.com/bitnami/bitnami-docker-phabricator
+version: 0.5.15

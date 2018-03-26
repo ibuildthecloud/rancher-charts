@@ -1,0 +1,15 @@
+apiVersion: v1
+appVersion: 0.0.12
+description: A Helm chart to deploy the New Relic Infrastructure Agent as a DaemonSet
+engine: gotpl
+home: https://hub.docker.com/r/newrelic/infrastructure/
+icon: https://newrelic.com/assets/newrelic/source/NewRelic-logo-square.svg
+keywords:
+- infrastructure
+- newrelic
+- monitoring
+maintainers:
+- email: robin@kearney.co.uk
+  name: rk295
+name: newrelic-infrastructure
+version: 0.0.4
