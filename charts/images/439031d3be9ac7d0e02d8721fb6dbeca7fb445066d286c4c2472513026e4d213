@@ -18,11 +18,11 @@
 
 
 
-  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-8f281eb0a8d2308ceb36e714ba3c3aec.css" />
-  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-afc457d1182f9759fd46a92d0209734c.css" />
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-29f21e31d44fd2c6858f04860799bc74.css" />
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-08c0695b372c4d0fadbe37f9e2300ed2.css" />
   
   
-  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://assets-cdn.github.com/assets/site-83dc1f7ebc9c7461fe1eab799b56c4c4.css" />
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://assets-cdn.github.com/assets/site-348211d27070b0d7bb5d31b1ac3d265b.css" />
   
 
   <meta name="viewport" content="width=device-width">
@@ -40,7 +40,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="D71C:2CFB:C4A2E:1B2486:5AC562EF" data-pjax-transient>
+  <meta name="request-id" content="9378:22F8:35B46B:69A6C8:5ACE765D" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D71C:2CFB:C4A2E:1B2486:5AC562EF" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="9378:22F8:35B46B:69A6C8:5ACE765D" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
 <meta name="hydro-events-url" content="https://github.com/hydro_browser_events" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
@@ -68,13 +68,13 @@
     <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="OTE5ZDVhNjEwZDhhNjZiM2JmNTVlN2RjYzFiMzdiNWVmMzUzNGFkNmQ3NWJhOTUyODEwZmQ1ZTFjY2IyY2Y1MXx7InJlbW90ZV9hZGRyZXNzIjoiNjMuMjMyLjE0Ni45OCIsInJlcXVlc3RfaWQiOiJENzFDOjJDRkI6QzRBMkU6MUIyNDg2OjVBQzU2MkVGIiwidGltZXN0YW1wIjoxNTIyODg1MzU5LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="ZTNhNzYyZDIzN2M3OTcxZjkwNmI2MGVmYmE2Yjc5NzBmMzBlMjc1YjRlZTI4MTFkMTdjZmFjMWM0MjQ4MmE3Nnx7InJlbW90ZV9hZGRyZXNzIjoiMTc0LjI2LjEzOC45MyIsInJlcXVlc3RfaWQiOiI5Mzc4OjIyRjg6MzVCNDZCOjY5QTZDODo1QUNFNzY1RCIsInRpbWVzdGFtcCI6MTUyMzQ4MDE1NywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_SELF_SERVE,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
 
-  <meta name="html-safe-nonce" content="35f22e870a73e367d777d093a8eabf9c277c1a80">
+  <meta name="html-safe-nonce" content="39acc5d7df1e9b8bf72c9a73450250c118eda661">
 
-  <meta http-equiv="x-pjax-version" content="e41994819635c513b1dbd9409de3878f">
+  <meta http-equiv="x-pjax-version" content="03438d07dbab6f1534ea017081329a17">
   
 
       <link href="https://github.com/coreos/etcd/commits/master.atom" rel="alternate" title="Recent Commits to etcd:master" type="application/atom+xml">
@@ -107,7 +107,7 @@
     
 
   <div class="position-relative js-header-wrapper ">
-    <a href="#start-of-content" tabindex="1" class="px-2 py-4bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <a href="#start-of-content" tabindex="1" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
     <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
 
     
@@ -222,8 +222,8 @@
     Watch
   </a>
   <a class="social-count" href="/coreos/etcd/watchers"
-     aria-label="1041 users are watching this repository">
-    1,041
+     aria-label="1046 users are watching this repository">
+    1,046
   </a>
 
   </li>
@@ -237,8 +237,8 @@
   </a>
 
     <a class="social-count js-social-count" href="/coreos/etcd/stargazers"
-      aria-label="17625 users starred this repository">
-      17,625
+      aria-label="17733 users starred this repository">
+      17,733
     </a>
 
   </li>
@@ -252,8 +252,8 @@
       </a>
 
     <a href="/coreos/etcd/network" class="social-count"
-       aria-label="3472 users forked this repository">
-      3,472
+       aria-label="3490 users forked this repository">
+      3,490
     </a>
   </li>
 </ul>
@@ -285,7 +285,7 @@
       <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /coreos/etcd/issues" href="/coreos/etcd/issues">
         <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
         <span itemprop="name">Issues</span>
-        <span class="Counter">213</span>
+        <span class="Counter">223</span>
         <meta itemprop="position" content="2">
 </a>    </span>
 
@@ -293,7 +293,7 @@
     <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /coreos/etcd/pulls" href="/coreos/etcd/pulls">
       <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
-      <span class="Counter">42</span>
+      <span class="Counter">43</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
@@ -314,7 +314,7 @@
   <div class="repository-content ">
 
     
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/coreos/etcd/blob/49d4fbdde9baecc0c3a98a0175caeac37e174da5/logos/etcd-horizontal-color.png">Permalink</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/coreos/etcd/blob/2c1840c1b8350896d39668e4c1b4b6e130159718/logos/etcd-horizontal-color.png">Permalink</a>
 
   <!-- blob contrib key: blob_contributors:v21:563dbdf087e4fda045e599b60c1d0c78 -->
 
@@ -1540,7 +1540,7 @@
     </div>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/coreos/etcd/delete/master/logos/etcd-horizontal-color.png" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qrlZYTIFkColAsYq1/9qi0l4XuA47f2XDtscDOj6UnuO9+V57xbmobJLu4GFlZZrtLGyKmcDLqr8o0K+8fj/+Q==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/coreos/etcd/delete/master/logos/etcd-horizontal-color.png" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DOxq6pqKPYNZCq5Q1pUY4NWgeCw4osSp+blriPQU6RHSTOhyFkP41OgMKbVtW0m18wNo4RLsCTd8RmlZZ9KPZQ==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="You must be signed in to make or propose changes" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1583,7 +1583,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.23661s from unicorn-904957894-c5cq3">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.28855s from unicorn-3128513344-rbslq">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -1599,7 +1599,7 @@
       <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
       <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
       <li class="mr-3"><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
-        <li class="mr-3"><a data-ga-click="Footer, go to blog, text:blog" href="https://github.com/blog">Blog</a></li>
+        <li class="mr-3"><a href="https://blog.github.com" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
 
     </ul>
@@ -1620,10 +1620,10 @@
   </div>
 
 
-    <script crossorigin="anonymous" type="application/javascript" src="https://assets-cdn.github.com/assets/compat-432e5bb0f7cc942dbf63a7c74de5da3c.js"></script>
-    <script crossorigin="anonymous" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-ce858f170674242460aa85a78297b46a.js"></script>
+    <script crossorigin="anonymous" type="application/javascript" src="https://assets-cdn.github.com/assets/compat-413dd2a0695c3dfaf7de158468a91646.js"></script>
+    <script crossorigin="anonymous" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-f2d2015a790169684fdc14f1bb2a7a19.js"></script>
     
-    <script crossorigin="anonymous" async="async" type="application/javascript" src="https://assets-cdn.github.com/assets/github-4f21e9a199e9645d9ad0de2627cb06b7.js"></script>
+    <script crossorigin="anonymous" async="async" type="application/javascript" src="https://assets-cdn.github.com/assets/github-683b7dfaa058eed3ab827e1372c38947.js"></script>
     
     
     

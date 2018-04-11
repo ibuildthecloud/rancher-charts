@@ -1,0 +1,11 @@
+description: Factorio dedicated server.
+keywords:
+- game
+- server
+maintainers:
+- email: gtaylor@gc-taylor.com
+  name: Greg Taylor
+name: factorio
+sources:
+- https://github.com/games-on-k8s/docker-factorio
+version: 0.1.1

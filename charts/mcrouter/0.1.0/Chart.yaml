@@ -1,0 +1,12 @@
+appVersion: 0.36.0
+description: Mcrouter is a memcached protocol router for scaling memcached deployments.
+engine: gotpl
+home: https://github.com/facebook/mcrouter
+maintainers:
+- email: jphalip@gmail.com
+  name: jphalip
+name: mcrouter
+sources:
+- https://github.com/facebook/mcrouter
+- https://github.com/jphalip/mcrouter-docker
+version: 0.1.0

@@ -1,0 +1,16 @@
+description: Community forum that supports the notion of users and groups, file attachments,
+  full-text search, notifications and more.
+engine: gotpl
+home: https://www.phpbb.com/
+keywords:
+- phpbb
+- forum
+- http
+- php
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: phpbb
+sources:
+- https://github.com/bitnami/bitnami-docker-phpbb
+version: 0.4.1

@@ -1,0 +1,19 @@
+appVersion: 10.0.7
+description: A file sharing server that puts the control and security of your own
+  data back into your hands.
+engine: gotpl
+home: https://owncloud.org/
+icon: https://bitnami.com/assets/stacks/owncloud/img/owncloud-stack-220x234.png
+keywords:
+- owncloud
+- storage
+- http
+- web
+- php
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: owncloud
+sources:
+- https://github.com/bitnami/bitnami-docker-owncloud
+version: 0.5.7

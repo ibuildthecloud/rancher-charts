@@ -1,0 +1,12 @@
+description: Chart for Chronograf
+engine: gotpl
+home: https://www.influxdata.com/time-series-platform/chronograf/
+keywords:
+- chronograf
+- visualizaion
+- timeseries
+maintainers:
+- email: jack@influxdb.com
+  name: Jack Zampolin
+name: chronograf
+version: 0.1.0

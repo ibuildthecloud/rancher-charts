@@ -19,25 +19,25 @@
 <title>Sign in · GitLab</title>
 <meta content="GitLab.com" name="description">
 <link rel="shortcut icon" type="image/x-icon" href="https://assets.gitlab-static.net/assets/favicon-075eba76312e8421991a0c1f89a89ee81678bcde72319dd3e8047e2a47cd3a42.ico" id="favicon" />
-<link rel="stylesheet" media="all" href="https://assets.gitlab-static.net/assets/application-4dcc9c194fd148bc19c8f5cd92fda820c3aeeee0ff9de9c2b228795976a11232.css" />
+<link rel="stylesheet" media="all" href="https://assets.gitlab-static.net/assets/application-14a2faf8c0c02a011c92c3cff330a7af8b5c862faa505d32575e18704925beab.css" />
 <link rel="stylesheet" media="print" href="https://assets.gitlab-static.net/assets/print-74b3d49adeaada27337e759b75a34af7cf3d80051de91d60d40570f5a382e132.css" />
 
 
 <script>
 //<![CDATA[
-window.gon={};gon.api_version="v4";gon.default_avatar_url="https:\/\/assets.gitlab-static.net\/assets\/no_avatar-849f9c04a3a0d0cea2424ae97b27447dc64a7dbfae83c036c45b403392f0e8ba.png";gon.max_file_size=10;gon.asset_host="https:\/\/assets.gitlab-static.net";gon.webpack_public_path="https:\/\/assets.gitlab-static.net\/assets\/webpack\/";gon.relative_url_root="";gon.shortcuts_path="\/help\/shortcuts";gon.user_color_scheme="white";gon.sentry_dsn="https:\/\/526a2f38a53d44e3a8e69bfa001d1e8b@sentry.gitlap.com\/15";gon.gitlab_url="https:\/\/gitlab.com";gon.revision="8b1a92e";gon.gitlab_logo="https:\/\/assets.gitlab-static.net\/assets\/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png";gon.sprite_icons="https:\/\/gitlab.com\/assets\/icons-7e80446544970c6b607eda58e7c7f88b0aa23a4cf71caa7f96d163ece8cb8db4.svg";gon.sprite_file_icons="https:\/\/gitlab.com\/assets\/file_icons-7262fc6897e02f1ceaf8de43dc33afa5e4f9a2067f4f68ef77dcc87946575e9e.svg";gon.test_env=false;gon.suggested_label_colors=["#0033CC","#428BCA","#44AD8E","#A8D695","#5CB85C","#69D100","#004E00","#34495E","#7F8C8D","#A295D6","#5843AD","#8E44AD","#FFECDB","#AD4363","#D10069","#CC0033","#FF0000","#D9534F","#D1D100","#F0AD4E","#AD8D43"];
+window.gon={};gon.api_version="v4";gon.default_avatar_url="https://assets.gitlab-static.net/assets/no_avatar-849f9c04a3a0d0cea2424ae97b27447dc64a7dbfae83c036c45b403392f0e8ba.png";gon.max_file_size=10;gon.asset_host="https://assets.gitlab-static.net";gon.webpack_public_path="https://assets.gitlab-static.net/assets/webpack/";gon.relative_url_root="";gon.shortcuts_path="/help/shortcuts";gon.user_color_scheme="white";gon.sentry_dsn="https://526a2f38a53d44e3a8e69bfa001d1e8b@sentry.gitlap.com/15";gon.gitlab_url="https://gitlab.com";gon.revision="ddd03ed";gon.gitlab_logo="https://assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png";gon.sprite_icons="https://gitlab.com/assets/icons-fe86f87a3d244c952cc0ec8d7f88c5effefcbe454d751d8449d4a1a32aaaf9a0.svg";gon.sprite_file_icons="https://gitlab.com/assets/file_icons-7262fc6897e02f1ceaf8de43dc33afa5e4f9a2067f4f68ef77dcc87946575e9e.svg";gon.test_env=false;gon.suggested_label_colors=["#0033CC","#428BCA","#44AD8E","#A8D695","#5CB85C","#69D100","#004E00","#34495E","#7F8C8D","#A295D6","#5843AD","#8E44AD","#FFECDB","#AD4363","#D10069","#CC0033","#FF0000","#D9534F","#D1D100","#F0AD4E","#AD8D43"];
 //]]>
 </script>
 
-<script src="https://assets.gitlab-static.net/assets/webpack/webpack_runtime.77cfe4073909521319fa.bundle.js" defer="defer"></script>
-<script src="https://assets.gitlab-static.net/assets/webpack/common.7a17b95920c387c03d32.bundle.js" defer="defer"></script>
-<script src="https://assets.gitlab-static.net/assets/webpack/main.2fba681ca02ff4ab8f50.bundle.js" defer="defer"></script>
+<script src="https://assets.gitlab-static.net/assets/webpack/webpack_runtime.42fe55c5aeb8964bb105.bundle.js" defer="defer"></script>
+<script src="https://assets.gitlab-static.net/assets/webpack/common.7fc6b72f51d774a76237.bundle.js" defer="defer"></script>
+<script src="https://assets.gitlab-static.net/assets/webpack/main.d9d400d80bc6e24ba38a.bundle.js" defer="defer"></script>
 <script src="https://assets.gitlab-static.net/assets/webpack/raven.6b398e5f9261c2c6e468.bundle.js" defer="defer"></script>
-<script src="https://assets.gitlab-static.net/assets/webpack/pages.sessions.d4154dece299c23426f0.bundle.js" defer="defer"></script>
-<script src="https://assets.gitlab-static.net/assets/webpack/pages.sessions.new.75520d3a2ae937c4bf1c.bundle.js" defer="defer"></script>
+<script src="https://assets.gitlab-static.net/assets/webpack/pages.sessions.3981efaa48f59ba693fa.bundle.js" defer="defer"></script>
+<script src="https://assets.gitlab-static.net/assets/webpack/pages.sessions.new.b39e3617a8b76995572f.bundle.js" defer="defer"></script>
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="C65/mBNfI4wnPB77QGLsEP9qDIj+keks0e/Z42RezBDEox6cWUKJMf324vfRUdI6UGippESBNgq/CS+LMYQgyA==" />
+<meta name="csrf-token" content="5xi2inJFKJ6v7h1In0DsKPOfKMik7HrOgV//P7XeEUUxAN3Kydt7X0vKA1AQ7W+b3KxfzkcbOJgYTdRAedNyHg==" />
 <meta content="origin-when-cross-origin" name="referrer">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 <meta content="#474D57" name="theme-color">
@@ -54,6 +54,7 @@ window.gon={};gon.api_version="v4";gon.default_avatar_url="https:\/\/assets.gitl
 </head>
 
 <body class="ui_indigo login-page application navless" data-page="sessions:new">
+
 <div class="page-wrap">
 <header class="navbar navbar-fixed-top navbar-empty">
 <div class="container">
@@ -95,7 +96,7 @@ window.gon={};gon.api_version="v4";gon.default_avatar_url="https:\/\/assets.gitl
 <div class="tab-content">
 <div class="login-box tab-pane active" id="login-pane" role="tabpanel">
 <div class="login-body">
-<form class="new_user gl-show-field-errors" aria-live="assertive" id="new_user" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="R7+QCwT681jbmGh1qmCcDR5ATFyXkooqDOCGajdUtNKIsvEPTudZ5QFSlHk7U6InsULpcC2CVQxiBnACYo5YCg==" /><div class="form-group">
+<form class="new_user gl-show-field-errors" aria-live="assertive" id="new_user" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="lvazkVQVEjvJrvyY3xJhXdVZEc75kLYKLb0mqP65FNxA7tjR74tB+i2K4oBQv+Lu+mpmyBpn9Fy0rw3XMrR3hw==" /><div class="form-group">
 <label for="user_login">Username or email</label>
 <input class="form-control top" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." type="text" name="user[login]" id="user_login" />
 </div>
@@ -121,7 +122,7 @@ window.gon={};gon.api_version="v4";gon.default_avatar_url="https:\/\/assets.gitl
 
 <div class="tab-pane login-box" id="register-pane" role="tabpanel">
 <div class="login-body">
-<form class="new_new_user gl-show-field-errors" aria-live="assertive" id="new_new_user" action="/users" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="4LkU6UUMlRLq+mRW5KfS53ny0yN7x0iIjgf9W8N2r4cvtHXtDxE/rzAwmFp1lOzN1vB2D8HXl67g4QszlqxDXw==" /><div class="devise-errors">
+<form class="new_new_user gl-show-field-errors" aria-live="assertive" id="new_new_user" action="/users" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="VbxsHmH6fPDXy8wRnfUu92jXSHZ2CFJ1ljjSDWZclVODpAde2mQvMTPv0gkSWK1ER+Q/cJX/ECMPKvlyqlH2CA==" /><div class="devise-errors">
 
 </div>
 <div class="form-group">
@@ -242,6 +243,7 @@ GitLab.com
 <a href="https://about.gitlab.com/">About GitLab</a>
 </div>
 </div>
+
 </div>
 </body>
 </html>

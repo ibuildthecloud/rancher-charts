@@ -21,12 +21,17 @@ download_image()
 
 curl -sfL $URL > cached.yaml
 
-while read DIGEST TGZ ICON; do
-    PREFIX=${DIGEST:0:2}
-    FOLDER=${PREFIX}/${DIGEST}
-    if [ -d $FOLDER ]; then
+while read CHART VERSION DIGEST TGZ ICON; do
+    FOLDER=${CHART}/${VERSION}
+    DIGESTFILE=${CHART}/${VERSION}/.${DIGEST}
+    if [ -f $DIGESTFILE ]; then
         continue
     fi
+
+    rm -rf $FOLDER
+    mkdir -p $FOLDER
+    touch $DIGESTFILE
+    
 
     TMP=$(mktemp -d -p .)
     trap "rm -rf $TMP" exit
@@ -37,7 +42,6 @@ while read DIGEST TGZ ICON; do
         download_image
     fi
 
-    mkdir -p $PREFIX
-    mv $TMP $FOLDER
+    mv ${TMP}/${CHART}/* $FOLDER
     rm -rf $TMP
-done < <(cat cached.yaml | ruby -ryaml -rjson -e 'puts JSON.pretty_generate(YAML.load(ARGF))' | jq -r '.entries[][]|"\(.digest) \(.urls[0]) \(.icon)"')
+done < <(cat cached.yaml | ruby -ryaml -rjson -e 'puts JSON.pretty_generate(YAML.load(ARGF))' | jq -r '.entries[][]|"\(.name) \(.version) \(.digest) \(.urls[0]) \(.icon)"')

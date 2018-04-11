@@ -1,5 +1,0 @@
-description: A chart for locust distributed load testing
-name: locust
-sources:
-- https://github.com/honestbee/distributed-load-testing
-version: 0.1.1

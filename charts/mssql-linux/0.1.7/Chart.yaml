@@ -1,0 +1,10 @@
+apiVersion: v1
+description: SQL Server 2017 Linux Helm Chart
+icon: https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1I4Dx
+maintainers:
+- email: tliddle30@gmail.com
+  name: thomasliddledba
+name: mssql-linux
+sources:
+- https://hub.docker.com/r/microsoft/mssql-server-linux/
+version: 0.1.7

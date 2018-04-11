@@ -18,11 +18,11 @@
 
 
 
-  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-8f281eb0a8d2308ceb36e714ba3c3aec.css" />
-  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-afc457d1182f9759fd46a92d0209734c.css" />
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://assets-cdn.github.com/assets/frameworks-29f21e31d44fd2c6858f04860799bc74.css" />
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://assets-cdn.github.com/assets/github-08c0695b372c4d0fadbe37f9e2300ed2.css" />
   
   
-  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://assets-cdn.github.com/assets/site-83dc1f7ebc9c7461fe1eab799b56c4c4.css" />
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://assets-cdn.github.com/assets/site-348211d27070b0d7bb5d31b1ac3d265b.css" />
   
 
   <meta name="viewport" content="width=device-width">
@@ -40,7 +40,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="E15E:2CFA:D7A62:187735:5AC562A6" data-pjax-transient>
+  <meta name="request-id" content="9042:22F2:276200:4FEBC1:5ACE7567" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="E15E:2CFA:D7A62:187735:5AC562A6" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="9042:22F2:276200:4FEBC1:5ACE7567" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
 <meta name="hydro-events-url" content="https://github.com/hydro_browser_events" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
@@ -68,13 +68,13 @@
     <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YTg4MTc4M2Q3NjRhNDM3NTZmYjRkMmMyYmEyZGIzYmM4MmYyN2Y3YzczYzIxY2JmZDUxYjk4YjA3MmYzOTA4Znx7InJlbW90ZV9hZGRyZXNzIjoiNjMuMjMyLjE0Ni45OCIsInJlcXVlc3RfaWQiOiJFMTVFOjJDRkE6RDdBNjI6MTg3NzM1OjVBQzU2MkE2IiwidGltZXN0YW1wIjoxNTIyODg1Mjg2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="ZDY1YTYzNmIwMDUxMzViODllOTFiMjU4OTI4ODQ4ZGZlNTY3MjkwYmMyZWM4MzlmNzNlNDgyZTY2NGU0ZjM4M3x7InJlbW90ZV9hZGRyZXNzIjoiMTc0LjI2LjEzOC45MyIsInJlcXVlc3RfaWQiOiI5MDQyOjIyRjI6Mjc2MjAwOjRGRUJDMTo1QUNFNzU2NyIsInRpbWVzdGFtcCI6MTUyMzQ3OTkxMSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_SELF_SERVE,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES">
 
-  <meta name="html-safe-nonce" content="0a4db3a6829d3cb3523f6a3e48b21516c400f8b9">
+  <meta name="html-safe-nonce" content="ebc825f7ead104bbb251a819710dbc141c3d0fbb">
 
-  <meta http-equiv="x-pjax-version" content="e41994819635c513b1dbd9409de3878f">
+  <meta http-equiv="x-pjax-version" content="03438d07dbab6f1534ea017081329a17">
   
 
       <link href="https://github.com/kubernetes/kubernetes/commits/master.atom" rel="alternate" title="Recent Commits to kubernetes:master" type="application/atom+xml">
@@ -107,7 +107,7 @@
     
 
   <div class="position-relative js-header-wrapper ">
-    <a href="#start-of-content" tabindex="1" class="px-2 py-4bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+    <a href="#start-of-content" tabindex="1" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
     <div id="js-pjax-loader-bar" class="pjax-loader-bar"><div class="progress"></div></div>
 
     
@@ -222,8 +222,8 @@
     Watch
   </a>
   <a class="social-count" href="/kubernetes/kubernetes/watchers"
-     aria-label="2346 users are watching this repository">
-    2,346
+     aria-label="2369 users are watching this repository">
+    2,369
   </a>
 
   </li>
@@ -237,8 +237,8 @@
   </a>
 
     <a class="social-count js-social-count" href="/kubernetes/kubernetes/stargazers"
-      aria-label="34652 users starred this repository">
-      34,652
+      aria-label="34922 users starred this repository">
+      34,922
     </a>
 
   </li>
@@ -252,8 +252,8 @@
       </a>
 
     <a href="/kubernetes/kubernetes/network" class="social-count"
-       aria-label="12265 users forked this repository">
-      12,265
+       aria-label="12365 users forked this repository">
+      12,365
     </a>
   </li>
 </ul>
@@ -285,7 +285,7 @@
       <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /kubernetes/kubernetes/issues" href="/kubernetes/kubernetes/issues">
         <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
         <span itemprop="name">Issues</span>
-        <span class="Counter">2,396</span>
+        <span class="Counter">2,399</span>
         <meta itemprop="position" content="2">
 </a>    </span>
 
@@ -293,7 +293,7 @@
     <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /kubernetes/kubernetes/pulls" href="/kubernetes/kubernetes/pulls">
       <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
-      <span class="Counter">1,090</span>
+      <span class="Counter">1,073</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
@@ -318,7 +318,7 @@
   <div class="repository-content ">
 
     
-  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/kubernetes/kubernetes/blob/76920d88b2b032c614e45ef36cb15a05adbbbce5/logo/logo.png">Permalink</a>
+  <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/kubernetes/kubernetes/blob/666b6b9e85d2ae77e3887086e74991e3b683a381/logo/logo.png">Permalink</a>
 
   <!-- blob contrib key: blob_contributors:v21:b748ffef2d3337ddc23e95bfb2c7cc4b -->
 
@@ -361,6 +361,16 @@
         <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
 
 
+            <a class="select-menu-item js-navigation-item js-navigation-open "
+               href="/kubernetes/kubernetes/blob/feature-serverside-apply/logo/logo.png"
+               data-name="feature-serverside-apply"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="select-menu-item-text css-truncate-target js-select-menu-filter-text">
+                feature-serverside-apply
+              </span>
+            </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
                href="/kubernetes/kubernetes/blob/feature-workload-ga/logo/logo.png"
                data-name="feature-workload-ga"
@@ -1081,6 +1091,26 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
+              href="/kubernetes/kubernetes/tree/v1.8.12-beta.0/logo/logo.png"
+              data-name="v1.8.12-beta.0"
+              data-skip-pjax="true"
+              rel="nofollow">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="select-menu-item-text css-truncate-target" title="v1.8.12-beta.0">
+                v1.8.12-beta.0
+              </span>
+            </a>
+            <a class="select-menu-item js-navigation-item js-navigation-open "
+              href="/kubernetes/kubernetes/tree/v1.8.11/logo/logo.png"
+              data-name="v1.8.11"
+              data-skip-pjax="true"
+              rel="nofollow">
+              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
+              <span class="select-menu-item-text css-truncate-target" title="v1.8.11">
+                v1.8.11
+              </span>
+            </a>
+            <a class="select-menu-item js-navigation-item js-navigation-open "
               href="/kubernetes/kubernetes/tree/v1.8.11-beta.0/logo/logo.png"
               data-name="v1.8.11-beta.0"
               data-skip-pjax="true"
@@ -1720,26 +1750,6 @@
                 v1.7.0-rc.1
               </span>
             </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/kubernetes/kubernetes/tree/v1.7.0-beta.3/logo/logo.png"
-              data-name="v1.7.0-beta.3"
-              data-skip-pjax="true"
-              rel="nofollow">
-              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-              <span class="select-menu-item-text css-truncate-target" title="v1.7.0-beta.3">
-                v1.7.0-beta.3
-              </span>
-            </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/kubernetes/kubernetes/tree/v1.7.0-beta.2/logo/logo.png"
-              data-name="v1.7.0-beta.2"
-              data-skip-pjax="true"
-              rel="nofollow">
-              <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
-              <span class="select-menu-item-text css-truncate-target" title="v1.7.0-beta.2">
-                v1.7.0-beta.2
-              </span>
-            </a>
         </div>
 
         <div class="select-menu-no-results">Nothing to show</div>
@@ -1825,7 +1835,7 @@ Update usage guidelines:
     </div>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/kubernetes/kubernetes/delete/master/logo/logo.png" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="eLrlS/OlgzQMM6CtFTSN0CZzewB/MHnmwHHFYi2e4OlThne4qtVdTzspehDIlbW54zEG4+o8kX1F7CupWruIlw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/kubernetes/kubernetes/delete/master/logo/logo.png" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vNiRhfQ6kSsHiN+fkMJtZMVRXMsBa4oWY+LhIRh1bvdrcOMZlPGbjHwRvqTZvDkMZv7RZ/J2dMv+Z5tXDHULoA==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="You must be signed in to make or propose changes" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1868,7 +1878,7 @@ Update usage guidelines:
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.20779s from unicorn-2458685381-7v5p7">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.32379s from unicorn-2122339139-7nt05">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -1884,7 +1894,7 @@ Update usage guidelines:
       <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
       <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
       <li class="mr-3"><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
-        <li class="mr-3"><a data-ga-click="Footer, go to blog, text:blog" href="https://github.com/blog">Blog</a></li>
+        <li class="mr-3"><a href="https://blog.github.com" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
 
     </ul>
@@ -1905,10 +1915,10 @@ Update usage guidelines:
   </div>
 
 
-    <script crossorigin="anonymous" type="application/javascript" src="https://assets-cdn.github.com/assets/compat-432e5bb0f7cc942dbf63a7c74de5da3c.js"></script>
-    <script crossorigin="anonymous" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-ce858f170674242460aa85a78297b46a.js"></script>
+    <script crossorigin="anonymous" type="application/javascript" src="https://assets-cdn.github.com/assets/compat-413dd2a0695c3dfaf7de158468a91646.js"></script>
+    <script crossorigin="anonymous" type="application/javascript" src="https://assets-cdn.github.com/assets/frameworks-f2d2015a790169684fdc14f1bb2a7a19.js"></script>
     
-    <script crossorigin="anonymous" async="async" type="application/javascript" src="https://assets-cdn.github.com/assets/github-4f21e9a199e9645d9ad0de2627cb06b7.js"></script>
+    <script crossorigin="anonymous" async="async" type="application/javascript" src="https://assets-cdn.github.com/assets/github-683b7dfaa058eed3ab827e1372c38947.js"></script>
     
     
     

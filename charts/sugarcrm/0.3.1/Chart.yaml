@@ -1,0 +1,16 @@
+appVersion: 6.5.26
+description: SugarCRM enables businesses to create extraordinary customer relationships
+  with the most innovative and affordable CRM solution in the market.
+engine: gotpl
+home: http://www.sugarcrm.com/
+icon: https://bitnami.com/assets/stacks/sugarcrm/img/sugarcrm-stack-110x117.png
+keywords:
+- sugarcrm
+- CRM
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: sugarcrm
+sources:
+- https://github.com/bitnami/bitnami-docker-sugarcrm
+version: 0.3.1

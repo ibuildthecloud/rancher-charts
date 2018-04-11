@@ -1,0 +1,13 @@
+apiVersion: v1
+appVersion: 0.8.0-beta.2
+description: KubeDB by AppsCode - Making running production-grade databases easy on
+  Kubernetes
+home: https://github.com/kubedb/cli
+icon: https://cdn.appscode.com/images/icon/kubedb.png
+maintainers:
+- email: kubedb@appscode.com
+  name: appscode
+name: kubedb
+sources:
+- https://github.com/kubedb/cli
+version: 0.1.0
