@@ -1,0 +1,11 @@
+appVersion: 1.0.0
+description: Collect information about Kubernetes clusters to help improve the project.
+engine: gotpl
+home: https://www.shdlr.com
+maintainers:
+- email: mgoodness@gmail.com
+  name: Michael Goodness
+name: spartakus
+sources:
+- https://github.com/kubernetes-incubator/spartakus
+version: 1.1.5

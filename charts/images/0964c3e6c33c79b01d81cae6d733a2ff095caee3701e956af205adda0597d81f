@@ -10,7 +10,7 @@ Free, unlimited and completely customizable with on-premises and SaaS cloud host
   <link rel="canonical" href="https://rocket.chat/404.html">
   <link rel="alternate" type="application/rss+xml" title="Free, Open Source, Enterprise Team Chat" href="/feed.xml">
   <link rel="shortcut icon" href="/favicon.ico?v=1"/>
-  <link rel="stylesheet" href="/styles.css?v=31">
+  <link rel="stylesheet" href="/styles.css?v=34">
 
   
   <meta property="og:image" content="https://rocket.chat/images/blog/post.jpg" />
@@ -80,7 +80,6 @@ Free, unlimited and completely customizable with on-premises and SaaS cloud host
     </ul>
     <ul>
       <li><a href="https://shop.spreadshirt.com/rocketchat" target="_blank">Swag Store</a></li>
-      <li><a href="https://www.stickermule.com/user/1070688638/stickers" target="_blank">Stickers</a></li>
       <li><a href="/press">Press</a></li>
       <li>
         <div class="social">

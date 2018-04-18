@@ -29,7 +29,7 @@ while read DIGEST TGZ ICON; do
     fi
 
     TMP=$(mktemp -d -p .)
-    trap "rm -rf $TMP" exit
+    trap "rm -rf $TMP $DIGESTFILE" exit
 
     echo Downloading $TGZ
     curl -sfL $TGZ | tar xzf - -C $TMP
