@@ -1,0 +1,10 @@
+apiVersion: v1
+description: Service mesh for cloud native apps
+home: https://linkerd.io/
+maintainers:
+- email: viglesias@google.com
+  name: Vic Iglesias
+name: linkerd
+sources:
+- https://github.com/BuoyantIO/linkerd
+version: 0.1.0

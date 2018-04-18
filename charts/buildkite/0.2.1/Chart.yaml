@@ -1,0 +1,17 @@
+apiVersion: v1
+appVersion: "3"
+description: Agent for Buildkite
+home: https://buildkite.com
+icon: https://github.com/buildkite/media/blob/master/marks/Buildkite%20-%20Mark%20-%20colour.png
+keywords:
+- kubernetes deployment
+- helm release
+- continuous deployment
+- continuous integration
+maintainers:
+- email: rmocius@gmail.com
+  name: rimusz
+name: buildkite
+sources:
+- https://github.com/buildkite/agent
+version: 0.2.1

@@ -1,0 +1,9 @@
+description: CockroachDB Helm chart for Kubernetes.
+home: https://www.cockroachlabs.com
+maintainers:
+- email: alex@cockroachlabs.com
+  name: Alex Robinson
+name: cockroachdb
+sources:
+- https://github.com/cockroachdb/cockroach
+version: 0.2.0

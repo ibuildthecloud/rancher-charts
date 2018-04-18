@@ -1,0 +1,12 @@
+apiVersion: v1
+appVersion: 5.0.0
+description: Searchlight by AppsCode - Alerts for Kubernetes
+home: https://github.com/appscode/searchlight
+icon: https://cdn.appscode.com/images/icon/searchlight.png
+maintainers:
+- email: support@appscode.com
+  name: appscode
+name: searchlight
+sources:
+- https://github.com/appscode/searchlight
+version: 0.3.0

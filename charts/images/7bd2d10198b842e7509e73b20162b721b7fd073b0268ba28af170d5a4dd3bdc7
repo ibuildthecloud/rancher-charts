@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<head>
+<title>404 - Page not found</title>
+  <style>
+    body {
+      background-color: #4b4b8f;
+      font-family: 'Open Sans';
+      font-size:20px;
+      color: white;
+    }
+
+    div.message {
+      position: relative;
+      top: 150px;
+      margin: auto;
+      width: 600px;
+      text-shadow: 1px 2px #333;
+    }
+
+    div.message h1 {
+      text-align: center;
+    }
+    div.message img {
+      float:left;
+      vertical-align:text-top;
+      margin: 80px 0px;
+    }
+
+    div.details {
+      position: absolute;
+      bottom: 10px;
+      right: 10px;
+      font-size: 18px;
+      text-shadow: 1px 2px #333;
+    }
+  </style>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+  <div class="message">
+    <h1>Quoth the Raven - 404</h1>
+    <img src="http://app.marketo.com/images/icons256/bird.png" alt="Quoth the Raven: 404"/>
+    Once upon a midnight dreary,<br> while I pondered weak and weary,<br>Over many a quaint and curious<br> volume of forgotten lore,<br><br>While I nodded, nearly napping,<br> suddenly there came a tapping,<br>As of some one gently rapping,<br> rapping at my chamber door.<br><br>`'Tis some visitor,' I muttered, <br> `tapping at my chamber door -<br>Only this, and nothing more.'<br><br>    Page not found: 404  </div>
+  <div class="details">
+    Error 404 |     <script language="JavaScript">
+      document.write( new Date().toLocaleString());
+    </script>
+  </div>
+</body>
+</html>

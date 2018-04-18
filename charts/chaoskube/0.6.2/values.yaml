@@ -1,0 +1,42 @@
+# container name
+name: chaoskube
+
+# docker image
+image: quay.io/linki/chaoskube
+
+# docker image tag
+imageTag: v0.6.1
+
+# number of replicas to run
+replicas: 1
+
+# interval between pod terminations
+interval: 10m
+
+# label selector to filter pods by, e.g. app=foo,stage!=prod
+labels:
+
+# annotation selector to filter pods by, e.g. chaos.alpha.kubernetes.io/enabled=true
+annotations:
+
+# namespace selector to filter pods by, e.g. '!kube-system,!production' (use quotes)
+namespaces:
+
+# don't kill pods, only log what would have been done
+dryRun: true
+
+# resource requests and limits
+resources:
+  cpu: 10m
+  memory: 16Mi
+
+# create service account with permission to list and kill pods
+rbac:
+  create: false
+
+  # only used when create is false
+  serviceAccountName: default
+
+# Node labels for pod assignment
+# Ref: https://kubernetes.io/docs/user-guide/node-selection/
+nodeSelector: {}

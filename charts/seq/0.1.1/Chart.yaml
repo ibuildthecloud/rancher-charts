@@ -1,0 +1,20 @@
+appVersion: 5.0.832-pre
+description: Seq is the easiest way for development teams to capture, search and visualize
+  structured log events! This page will walk you through the very quick setup process.
+home: https://getseq.net/
+icon: https://avatars1.githubusercontent.com/u/5898109?s=200&v=4
+keywords:
+- seq
+- structured
+- logging
+maintainers:
+- email: nblumhardt@nblumhardt.com
+  name: nblumhardt
+- email: ashleymannix@live.com.au
+  name: KodrAus
+- email: gertjvr@gmail.com
+  name: gertjvr
+name: seq
+sources:
+- https://github.com/datalust/seq-tickets
+version: 0.1.1

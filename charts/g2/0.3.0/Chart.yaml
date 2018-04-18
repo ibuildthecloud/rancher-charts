@@ -1,0 +1,12 @@
+apiVersion: v1
+appVersion: 0.5.0
+description: G2 by AppsCode - Gearman in Golang
+home: https://github.com/appscode/g2
+icon: https://cdn.appscode.com/images/icon/g2.png
+maintainers:
+- email: support@appscode.com
+  name: appscode
+name: g2
+sources:
+- https://github.com/appscode/g2
+version: 0.3.0

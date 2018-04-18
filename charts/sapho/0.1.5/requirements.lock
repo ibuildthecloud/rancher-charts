@@ -1,0 +1,10 @@
+dependencies:
+- condition: ""
+  enabled: false
+  import-values: null
+  name: mysql
+  repository: https://kubernetes-charts.storage.googleapis.com/
+  tags: null
+  version: 0.2.4
+digest: sha256:7e685cedef7c7ddbea4ddb409b642985a59b261d9c1f9b90ef85f79756a3e69b
+generated: 2017-08-11T21:18:42.564996189Z

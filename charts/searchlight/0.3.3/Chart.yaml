@@ -1,0 +1,10 @@
+apiVersion: v1
+appVersion: 5.0.0
+deprecated: true
+description: DEPRECATED Searchlight by AppsCode - Alerts for Kubernetes
+home: https://github.com/appscode/searchlight
+icon: https://cdn.appscode.com/images/icon/searchlight.png
+name: searchlight
+sources:
+- https://github.com/appscode/searchlight
+version: 0.3.3

@@ -1,0 +1,18 @@
+appVersion: 1.30.0
+description: Extremely powerful, scalable software and a feature-rich wiki implementation
+  that uses PHP to process and display data stored in a database.
+engine: gotpl
+home: http://www.mediawiki.org/
+icon: https://bitnami.com/assets/stacks/mediawiki/img/mediawiki-stack-220x234.png
+keywords:
+- mediawiki
+- wiki
+- http
+- php
+maintainers:
+- email: containers@bitnami.com
+  name: bitnami-bot
+name: mediawiki
+sources:
+- https://github.com/bitnami/bitnami-docker-mediawiki
+version: 0.6.3

@@ -1,0 +1,18 @@
+description: Web publishing platform for building blogs and websites.
+engine: gotpl
+home: http://www.wordpress.com/
+keywords:
+- wordpress
+- cms
+- blog
+- http
+- web
+- application
+- php
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: wordpress
+sources:
+- https://github.com/bitnami/bitnami-docker-wordpress
+version: 0.3.4

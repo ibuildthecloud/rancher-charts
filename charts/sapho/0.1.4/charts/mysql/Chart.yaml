@@ -1,0 +1,15 @@
+description: Chart for MySQL
+engine: gotpl
+home: https://www.mysql.com/
+keywords:
+- mysql
+- database
+- sql
+maintainers:
+- email: viglesias@google.com
+  name: Vic Iglesias
+name: mysql
+sources:
+- https://github.com/kubernetes/charts
+- https://github.com/docker-library/mysql
+version: 0.2.4

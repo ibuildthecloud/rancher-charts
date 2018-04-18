@@ -1,0 +1,19 @@
+description: A simple, powerful publishing platform that allows you to share your
+  stories with the world
+engine: gotpl
+home: http://www.ghost.org/
+keywords:
+- ghost
+- blog
+- http
+- web
+- application
+- nodejs
+- javascript
+maintainers:
+- email: containers@bitnami.com
+  name: Bitnami
+name: ghost
+sources:
+- https://github.com/bitnami/bitnami-docker-ghost
+version: 0.4.2
