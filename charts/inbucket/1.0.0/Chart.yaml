@@ -1,0 +1,21 @@
+apiVersion: v1
+appVersion: 1.2.0
+description: Inbucket is an email testing application
+home: https://www.inbucket.org/
+keywords:
+- inbucket
+- mail
+- smtp
+- pop3
+- email
+- testing
+- disposable webmail
+maintainers:
+- email: ctadeu@gmail.com
+  name: cpanato
+- email: github@hillyerd.com
+  name: jhillyerd
+name: inbucket
+sources:
+- https://github.com/jhillyerd/inbucket
+version: 1.0.0

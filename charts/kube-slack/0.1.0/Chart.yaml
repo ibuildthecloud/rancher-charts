@@ -1,0 +1,16 @@
+apiVersion: v1
+appVersion: v3.1.1
+description: Chart for kube-slack, a monitoring service for Kubernetes
+home: https://github.com/wongnai/kube-slack
+icon: https://upload.wikimedia.org/wikipedia/commons/1/1f/Echo_%28Notifications%29_logo.svg
+keywords:
+- kubernetes
+- monitoring
+- slack
+maintainers:
+- email: jonathan@scalableminds.com
+  name: jstriebel
+name: kube-slack
+sources:
+- https://github.com/wongnai/kube-slack
+version: 0.1.0
