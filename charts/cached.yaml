@@ -3,7 +3,7 @@ entries:
   acs-engine-autoscaler:
   - apiVersion: v1
     appVersion: 2.1.1
-    created: 2018-05-20T20:56:49.543574345Z
+    created: 2018-05-22T16:26:41.99186783Z
     description: Scales worker nodes within agent pools
     digest: 8b4e05fd9357296ba20d20ff4f163d25abd511fc0db9aee8e34b6de17a7d6bc0
     home: https://github.com/wbuchwalter/Kubernetes-acs-engine-autoscaler
@@ -153,7 +153,7 @@ entries:
     version: 0.1.0
   aerospike:
   - appVersion: v3.14.1.2
-    created: 2018-05-20T20:56:49.544014008Z
+    created: 2018-05-22T16:26:41.992333576Z
     description: A Helm chart for Aerospike in Kubernetes
     digest: 298cdd1f148e7962ee36b9cf9accff22b15fbb587e44ddaa59c8e0374739b47e
     home: http://aerospike.com
@@ -208,9 +208,9 @@ entries:
     version: 0.1.5
   anchore-engine:
   - appVersion: 0.1.10
-    created: 2018-05-20T20:56:49.545300197Z
+    created: 2018-05-22T16:26:41.993643953Z
     description: Anchore container analysis and policy evaluation engine service
-    digest: d36aa60ccc75c2abc5375b99835d8c0cb6f8337f27e050f853396b055672c34e
+    digest: b58446ad250bc311838bd3af6b6889c551e1b9c61ddba8143cf85a60d7cd6b4a
     engine: gotpl
     home: https://anchore.io
     icon: https://anchore.com/wp-content/uploads/2016/08/anchore.png
@@ -394,7 +394,7 @@ entries:
   artifactory:
   - apiVersion: v1
     appVersion: 5.10.1
-    created: 2018-05-20T20:56:49.54653371Z
+    created: 2018-05-22T16:26:41.99489926Z
     description: Universal Repository Manager supporting all major packaging formats,
       build tools and CI servers.
     digest: e3991395d14fd85adcb646ce66de4601d9340ea1afa2f6a12978145ea687435a
@@ -970,7 +970,7 @@ entries:
   artifactory-ha:
   - apiVersion: v1
     appVersion: 5.10.1
-    created: 2018-05-20T20:56:49.54804245Z
+    created: 2018-05-22T16:26:41.996499256Z
     description: Universal Repository Manager supporting all major packaging formats,
       build tools and CI servers.
     digest: ce6c1e44d4885c17ce8dfb0588393343a3d61d4d4f4a42343e671cff8a5364f1
@@ -1223,7 +1223,7 @@ entries:
     version: 0.1.0
   aws-cluster-autoscaler:
   - apiVersion: v1
-    created: 2018-05-20T20:56:49.548499599Z
+    created: 2018-05-22T16:26:41.996887666Z
     deprecated: true
     description: Scales worker nodes within autoscaling groups.
     digest: 168109335f82c20ec27e6c739198db0ea375e34f387fca3c42d84625502357ba
@@ -1332,7 +1332,7 @@ entries:
   bitcoind:
   - apiVersion: v1
     appVersion: 0.15.1
-    created: 2018-05-20T20:56:49.548949064Z
+    created: 2018-05-22T16:26:41.997391129Z
     description: Bitcoin is an innovative payment network and a new kind of money.
     digest: ca1c1f3c220c06f5060bb6da0119f595dec77fb55fc3725a9e7849c4004bc62c
     engine: gotpl
@@ -1433,7 +1433,7 @@ entries:
   buildkite:
   - apiVersion: v1
     appVersion: "3"
-    created: 2018-05-20T20:56:49.549454384Z
+    created: 2018-05-22T16:26:41.99908287Z
     description: Agent for Buildkite
     digest: 6e07453980b30872ca7e2e0a967a7477e3901935603ff22f002dc9c3e0347d0d
     home: https://buildkite.com
@@ -1538,7 +1538,7 @@ entries:
     version: 0.1.0
   burrow:
   - appVersion: 0.17.1
-    created: 2018-05-20T20:56:49.550260581Z
+    created: 2018-05-22T16:26:41.999951423Z
     description: Burrow is a permissionable smart contract machine
     digest: b73f638bae2c6fd3ed011ac8736da426f79042c2353f6dea6a0a54cabd2f4ed5
     engine: gotpl
@@ -1613,7 +1613,7 @@ entries:
   centrifugo:
   - apiVersion: v1
     appVersion: 1.7.3
-    created: 2018-05-20T20:56:49.550705511Z
+    created: 2018-05-22T16:26:42.01653302Z
     description: Centrifugo is a real-time messaging server.
     digest: 64c3ad7664d37f347079d1136ecf3d4306a69a21204e3c74547ea49a2d04f090
     home: https://github.com/centrifugal/centrifugo
@@ -1667,7 +1667,7 @@ entries:
     version: 1.0.0
   cert-manager:
   - appVersion: 0.2.5
-    created: 2018-05-20T20:56:49.551145732Z
+    created: 2018-05-22T16:26:42.017345587Z
     description: A Helm chart for cert-manager
     digest: 979fe4f8b3c5c7cd48165d474506368593179ada253750df3cb2518014845f5a
     home: https://github.com/jetstack/cert-manager
@@ -1801,7 +1801,7 @@ entries:
     version: 0.2.1
   chaoskube:
   - appVersion: 0.8.0
-    created: 2018-05-20T20:56:49.551523952Z
+    created: 2018-05-22T16:26:42.018150926Z
     description: Chaoskube periodically kills random pods in your Kubernetes cluster.
     digest: e738723eab5d8f81dbe6f0e2b3416a7f6f5758a361fc23ff4ae8215049de81ec
     engine: gotpl
@@ -1919,7 +1919,7 @@ entries:
   chartmuseum:
   - apiVersion: v1
     appVersion: 0.5.2
-    created: 2018-05-20T20:56:49.552194187Z
+    created: 2018-05-22T16:26:42.019592315Z
     description: Helm Chart Repository with support for Amazon S3 and Google Cloud
       Storage
     digest: 847f22b6fc5eb9d33905ad7a328417dfb204c900fd020f90aaac15ea8930df2b
@@ -1988,7 +1988,7 @@ entries:
     version: 1.2.0
   chronograf:
   - appVersion: "1.3"
-    created: 2018-05-20T20:56:49.552628845Z
+    created: 2018-05-22T16:26:42.020087705Z
     description: Open-source web application written in Go and React.js that provides
       the tools to visualize your monitoring data and easily create alerting and automation
       rules.
@@ -2223,7 +2223,7 @@ entries:
   cluster-autoscaler:
   - apiVersion: v1
     appVersion: 1.2.2
-    created: 2018-05-20T20:56:49.553254031Z
+    created: 2018-05-22T16:26:42.020722788Z
     description: Scales worker nodes within autoscaling groups.
     digest: c4141d69be267e3c9892ec2cdaf14276e67d7a51d13cdaf65bb9be3dda249141
     engine: gotpl
@@ -2564,7 +2564,7 @@ entries:
     version: 0.1.0
   cockroachdb:
   - appVersion: 2.0.0
-    created: 2018-05-20T20:56:49.553877773Z
+    created: 2018-05-22T16:26:42.021344008Z
     description: CockroachDB is a scalable, survivable, strongly-consistent SQL database.
     digest: 631ec8c4e36caa81aed762e9e5cabd7ffe97d85cbc508d3ee13cef7e920cacb9
     home: https://www.cockroachlabs.com
@@ -2932,7 +2932,7 @@ entries:
     version: 0.2.0
   concourse:
   - appVersion: 3.10.0
-    created: 2018-05-20T20:56:49.556492803Z
+    created: 2018-05-22T16:26:42.023350752Z
     description: Concourse is a simple and scalable CI system.
     digest: f98cf6aee96b3ec11d8bd2feb7e365dbdba6c763c5925018fbc137225e631d94
     engine: gotpl
@@ -4363,7 +4363,7 @@ entries:
     version: 0.1.0
   consul:
   - appVersion: 1.0.0
-    created: 2018-05-20T20:56:49.558681728Z
+    created: 2018-05-22T16:26:42.024045729Z
     description: Highly available and distributed service discovery and key-value
       store designed with support for the modern data center to make distributed systems
       and configuration easy.
@@ -4852,7 +4852,7 @@ entries:
     version: 0.2.0
   coredns:
   - appVersion: 1.0.6
-    created: 2018-05-20T20:56:49.559171125Z
+    created: 2018-05-22T16:26:42.024542299Z
     description: CoreDNS is a DNS server that chains plugins and provides Kubernetes
       DNS Services
     digest: baeba35afb95188642fbbe128399b51e3d5bc3f2ffcc52530d85a305e8b1654d
@@ -5044,7 +5044,7 @@ entries:
     version: 0.1.0
   coscale:
   - appVersion: 3.9.1
-    created: 2018-05-20T20:56:49.559537015Z
+    created: 2018-05-22T16:26:42.024880852Z
     description: CoScale Agent
     digest: 09a34da48ade71c763ccd779a547dab4ce89405fdf59206a9d2da6c7b0e2b2b6
     home: https://www.coscale.com/
@@ -5108,7 +5108,7 @@ entries:
     version: 0.1.0
   dask:
   - appVersion: 0.17.4
-    created: 2018-05-20T20:56:49.560013053Z
+    created: 2018-05-22T16:26:42.02536961Z
     description: Distributed computation in Python with task scheduling
     digest: 27792dd49d9648781b619293002772ec7f0778902cd1d87f7687634c3ee9229b
     home: https://dask.pydata.org
@@ -5193,7 +5193,7 @@ entries:
     - https://kubernetes-charts.storage.googleapis.com/dask-1.0.0.tgz
     version: 1.0.0
   dask-distributed:
-  - created: 2018-05-20T20:56:49.560401677Z
+  - created: 2018-05-22T16:26:42.025793719Z
     deprecated: true
     description: 'DEPRECATED: Distributed computation in Python'
     digest: abbee17e230120302921b8878e180380426290a5d66d2926a4e34c124fb3db6b
@@ -5261,7 +5261,7 @@ entries:
     version: 1.16.3
   datadog:
   - appVersion: 6.2.0
-    created: 2018-05-20T20:56:49.561337817Z
+    created: 2018-05-22T16:26:42.026792068Z
     description: DataDog Agent
     digest: 132a330d302b60484972664e15db357f61be47cbcd9238739c1e3076add54237
     home: https://www.datadoghq.com
@@ -6042,7 +6042,7 @@ entries:
     version: 0.1.0
   dex:
   - appVersion: 2.10.0
-    created: 2018-05-20T20:56:49.561766829Z
+    created: 2018-05-22T16:26:42.027224969Z
     description: CoreOS Dex
     digest: 82ef031513792b62aeb300867f38e3c346a3bd1cb980761a99aa4e141d0df488
     home: https://github.com/coreos/dex/
@@ -6062,7 +6062,7 @@ entries:
   dmarc2logstash:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2018-05-20T20:56:49.562139525Z
+    created: 2018-05-22T16:26:42.027614837Z
     description: Provides a POP3-polled DMARC XML report injector into Elasticsearch
       via Logstash and Filebeat
     digest: 8cd7393b553fc0987daa82441c0cbfd85ba4f33b5615819e565d56558845eedc
@@ -6080,7 +6080,7 @@ entries:
   docker-registry:
   - apiVersion: v1
     appVersion: 2.6.2
-    created: 2018-05-20T20:56:49.562636667Z
+    created: 2018-05-22T16:26:42.028122709Z
     description: A Helm chart for Docker Registry
     digest: eb869aebf250d65a00d2f81048f20270582cecbbfdb11b0f798697e818356e10
     home: https://hub.docker.com/_/registry/
@@ -6338,7 +6338,7 @@ entries:
     version: 1.0.0
   dokuwiki:
   - appVersion: 0.20180422.201805030840
-    created: 2018-05-20T20:56:49.563083519Z
+    created: 2018-05-22T16:26:42.028686645Z
     description: DokuWiki is a standards-compliant, simple to use wiki optimized for
       creating documentation. It is targeted at developer teams, workgroups, and small
       companies. All data is stored in plain text files, so no database is required.
@@ -6615,7 +6615,7 @@ entries:
     version: 0.1.0
   drupal:
   - appVersion: 8.5.3
-    created: 2018-05-20T20:56:49.564141022Z
+    created: 2018-05-22T16:26:42.029844327Z
     description: One of the most versatile open source content management systems.
     digest: 33b81fa7982e5e18be1996ab3c22810b655820ef565b4c8534f5a86f792cae8d
     engine: gotpl
@@ -7919,7 +7919,7 @@ entries:
     version: 0.3.0
   elastalert:
   - appVersion: 0.1.30
-    created: 2018-05-20T20:56:49.564529191Z
+    created: 2018-05-22T16:26:42.030313779Z
     description: ElastAlert is a simple framework for alerting on anomalies, spikes,
       or other patterns of interest from data in Elasticsearch.
     digest: ed37ec11eea7bcf9e63d2a6b6523d6b64c66815f3f7829dc852267563b32d624
@@ -8074,7 +8074,7 @@ entries:
   elasticsearch-exporter:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: 2018-05-20T20:56:49.564910516Z
+    created: 2018-05-22T16:26:42.030765361Z
     description: Elasticsearch stats exporter for Prometheus
     digest: 66e342d8cf24e786acb6ab90226c99d605c15d95af220d9a7a28adfce18a4e6f
     home: https://github.com/justwatchcom/elasticsearch_exporter
@@ -8167,7 +8167,7 @@ entries:
   etcd-operator:
   - apiVersion: v1
     appVersion: 0.7.0
-    created: 2018-05-20T20:56:49.565539079Z
+    created: 2018-05-22T16:26:42.031650988Z
     description: CoreOS etcd-operator Helm chart for Kubernetes
     digest: 77b000ca9d35f54ae86cf6a318017fb2d66a48bc49dc78618c2f9bf15273fb31
     home: https://github.com/coreos/etcd-operator
@@ -8572,7 +8572,7 @@ entries:
     version: 0.1.0
   ethereum:
   - appVersion: v1.7.3
-    created: 2018-05-20T20:56:49.566075406Z
+    created: 2018-05-22T16:26:42.032486548Z
     description: private Ethereum network Helm chart for Kubernetes
     digest: 3793866c3ce3babab53e92a024411b35ab48e47e8f58051ac6aa73ff54f67cda
     home: https://www.ethereum.org/
@@ -8610,7 +8610,7 @@ entries:
   external-dns:
   - apiVersion: v1
     appVersion: 0.5.0
-    created: 2018-05-20T20:56:49.566554229Z
+    created: 2018-05-22T16:26:42.033076292Z
     description: Configure external DNS servers (AWS Route53, Google CloudDNS and
       others) for Kubernetes Ingresses and Services
     digest: 98d1f8f7b9acbcec7841f99c7bb5d92c65a0be7d25e87a44a89869c4def7a15b
@@ -8960,7 +8960,7 @@ entries:
     version: 0.1.0
   factorio:
   - appVersion: 0.14.22
-    created: 2018-05-20T20:56:49.566970176Z
+    created: 2018-05-22T16:26:42.033619725Z
     description: Factorio dedicated server.
     digest: 79e861969c9c60d2173911e4686711235013963ab6a9b3b086465a7733584a5c
     home: https://www.factorio.com/
@@ -9108,7 +9108,7 @@ entries:
   filebeat:
   - apiVersion: v1
     appVersion: 6.2.3
-    created: 2018-05-20T20:56:49.567345454Z
+    created: 2018-05-22T16:26:42.034039338Z
     description: A Helm chart to collect Kubernetes logs with filebeat
     digest: f31627c475ea483537a21838e26b1fcb06a8dbf8857849fc42d5457744db5162
     home: https://www.elastic.co/products/beats/filebeat
@@ -9160,7 +9160,7 @@ entries:
     version: 0.1.0
   fluent-bit:
   - appVersion: 0.13.0
-    created: 2018-05-20T20:56:49.567854159Z
+    created: 2018-05-22T16:26:42.034636861Z
     description: Fast and Lightweight Log/Data Forwarder for Linux, BSD and OSX
     digest: 9512f81a3f24cff7c3a3ddbc1ecbd120002b21e02b3e9ae36cc8127cfac3db7f
     home: http://fluentbit.io
@@ -9731,7 +9731,7 @@ entries:
   g2:
   - apiVersion: v1
     appVersion: 0.5.0
-    created: 2018-05-20T20:56:49.568219722Z
+    created: 2018-05-22T16:26:42.035561782Z
     deprecated: true
     description: DEPRECATED G2 by AppsCode - Gearman in Golang
     digest: b3b9396fa20418b63ad4f457b9c0c502e7b2e014350a484a4da1d32503a986fa
@@ -9824,7 +9824,7 @@ entries:
     - https://kubernetes-charts.storage.googleapis.com/g2-0.1.0.tgz
     version: 0.1.0
   gcloud-endpoints:
-  - created: 2018-05-20T20:56:49.568603812Z
+  - created: 2018-05-22T16:26:42.036245538Z
     description: Develop, deploy, protect and monitor your APIs with Google Cloud
       Endpoints.
     digest: 6cad2e699cdac3a029743776a2e7505b956e29e000992d74257df3dff858b323
@@ -9850,7 +9850,7 @@ entries:
     version: 0.1.0
   gcloud-sqlproxy:
   - appVersion: "1.11"
-    created: 2018-05-20T20:56:49.568988109Z
+    created: 2018-05-22T16:26:42.037342958Z
     description: Google Cloud SQL Proxy
     digest: d8531a762c0ba674eb31d5ebae6502ca5d919403d12a732eea4c6c88b6d36c21
     engine: gotpl
@@ -10064,7 +10064,7 @@ entries:
   gcp-night-king:
   - apiVersion: v1
     appVersion: "1"
-    created: 2018-05-20T20:56:49.569316021Z
+    created: 2018-05-22T16:26:42.037728674Z
     description: A Helm chart for GCP Night King
     digest: 0ffbe26c1c11e8d3416940de126a7467e7166fabe4e7e9e7feb1f2813f18b00a
     home: https://hub.docker.com/r/itamarost/gcp-night-king/
@@ -10112,7 +10112,7 @@ entries:
     version: 1.0.0
   ghost:
   - appVersion: 1.22.7
-    created: 2018-05-20T20:56:49.57045717Z
+    created: 2018-05-22T16:26:42.038911143Z
     description: A simple, powerful publishing platform that allows you to share your
       stories with the world
     digest: 3d4c8b3608c0ae9a2f24b9052c92edf2e5c7a3ff5703f6d5f9bc5baf6b1d19aa
@@ -12050,7 +12050,7 @@ entries:
     version: 0.1.6
   gocd:
   - appVersion: 18.3.0
-    created: 2018-05-20T20:56:49.573192663Z
+    created: 2018-05-22T16:26:42.039978322Z
     description: GoCD is an open-source continuous delivery server to model and visualize
       complex workflows with ease.
     digest: 4bd84a717324847b1694d7f5d1cb2e036b81d447121d3b15681498bbb5c83d81
@@ -12283,7 +12283,7 @@ entries:
     version: 1.0.0
   grafana:
   - appVersion: 5.1.2
-    created: 2018-05-20T20:56:49.573839807Z
+    created: 2018-05-22T16:26:42.04074192Z
     description: The leading tool for querying and visualizing time series and metrics.
     digest: fdf12793a13f225e005e2c91493a20573bc712f0c28bb527c82552b20bab9497
     engine: gotpl
@@ -13181,7 +13181,7 @@ entries:
   hackmd:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: 2018-05-20T20:56:49.574683155Z
+    created: 2018-05-22T16:26:42.041724584Z
     description: Realtime collaborative markdown notes on all platforms.
     digest: 1fe537505b8611bf64837881d33f70f8f57b1814e070afd24d0acfd8486247cc
     engine: gotpl
@@ -13207,7 +13207,7 @@ entries:
   hadoop:
   - apiVersion: v1
     appVersion: 2.7.3
-    created: 2018-05-20T20:56:49.575337254Z
+    created: 2018-05-22T16:26:42.042428756Z
     description: The Apache Hadoop software library is a framework that allows for
       the distributed processing of large data sets across clusters of computers using
       simple programming models.
@@ -13352,7 +13352,7 @@ entries:
   heapster:
   - apiVersion: v1
     appVersion: 1.3.0
-    created: 2018-05-20T20:56:49.575778164Z
+    created: 2018-05-22T16:26:42.043001196Z
     description: Heapster enables Container Cluster Monitoring and Performance Analysis.
     digest: 559a1cdb2a9be0132662e27e2d01e055115c37a771e9de9da70bfe0ca178b110
     engine: gotpl
@@ -13644,7 +13644,7 @@ entries:
   horovod:
   - apiVersion: v1
     appVersion: 0.12.1
-    created: 2018-05-20T20:56:49.576203631Z
+    created: 2018-05-22T16:26:42.043450416Z
     description: A Helm chart for deploying Horovod
     digest: 3b42d24cf739e66f35c6e534982d7de8021884c50a14d19f5bf9a1f15318a9f8
     home: https://eng.uber.com/horovod/
@@ -13661,7 +13661,7 @@ entries:
   inbucket:
   - apiVersion: v1
     appVersion: 1.2.0
-    created: 2018-05-20T20:56:49.576600894Z
+    created: 2018-05-22T16:26:42.043834143Z
     description: Inbucket is an email testing application
     digest: d6fd1bea5b3f8a7ed154c56cd726e22aed0a56aab5c70883da43cffe10dd8b86
     home: https://www.inbucket.org/
@@ -13686,7 +13686,7 @@ entries:
     version: 1.0.0
   influxdb:
   - appVersion: "1.4"
-    created: 2018-05-20T20:56:49.577158844Z
+    created: 2018-05-22T16:26:42.044544097Z
     description: Scalable datastore for metrics, events, and real-time analytics.
     digest: ebabf199ff087c00672852c906ec936121c3930478103a031ced83e9e98da536
     engine: gotpl
@@ -14065,7 +14065,7 @@ entries:
   ipfs:
   - apiVersion: v1
     appVersion: v0.4.9
-    created: 2018-05-20T20:56:49.577522296Z
+    created: 2018-05-22T16:26:42.04494526Z
     description: A Helm chart for the Interplanetary File System
     digest: 6778f6b0f664c45a04869e5a114e405c6416911591e479955e0e6942c31d25f7
     home: https://ipfs.io/
@@ -14161,9 +14161,9 @@ entries:
   janusgraph:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-05-20T20:56:49.578539386Z
+    created: 2018-05-22T16:26:42.046141833Z
     description: Open source, scalable graph database.
-    digest: 52b245bb96dfa0c12ce728b5eef9e026ce2aa86500524d4667e24ba115dff0a1
+    digest: fad0a7e0c4b440b794cf1e3ebc63e45fff048ce0532c2c9cc4ca5f6d3413fc24
     home: http://janusgraph.org
     icon: https://raw.githubusercontent.com/JanusGraph/janusgraph/master/janusgraph.png
     maintainers:
@@ -14193,7 +14193,7 @@ entries:
     version: 0.1.0
   jasperreports:
   - appVersion: 6.4.3
-    created: 2018-05-20T20:56:49.579350647Z
+    created: 2018-05-22T16:26:42.047026059Z
     description: The JasperReports server can be used as a stand-alone or embedded
       reporting and BI server that offers web-based reporting, analytic tools and
       visualization, and a dashboard feature for compiling multiple custom views
@@ -14786,7 +14786,7 @@ entries:
     version: 0.1.1
   jenkins:
   - appVersion: "2.107"
-    created: 2018-05-20T20:56:49.58019749Z
+    created: 2018-05-22T16:26:42.047944526Z
     description: Open source continuous integration server. It supports multiple SCM
       tools including CVS, Subversion and Git. It can execute Apache Ant and Apache
       Maven-based projects as well as arbitrary scripts.
@@ -16106,8 +16106,30 @@ entries:
     - https://kubernetes-charts.storage.googleapis.com/jenkins-0.1.0.tgz
     version: 0.1.0
   joomla:
+  - appVersion: 3.8.8
+    created: 2018-05-22T16:26:42.048881089Z
+    description: PHP content management system (CMS) for publishing web content
+    digest: d74c925e48fed0d386c57c9e76c605b339de2656df081b5450dc72fd977b9eea
+    engine: gotpl
+    home: http://www.joomla.org/
+    icon: https://bitnami.com/assets/stacks/joomla/img/joomla-stack-220x234.png
+    keywords:
+    - joomla
+    - cms
+    - blog
+    - http
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: joomla
+    sources:
+    - https://github.com/bitnami/bitnami-docker-joomla
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/joomla-1.0.3.tgz
+    version: 1.0.3
   - appVersion: 3.8.7
-    created: 2018-05-20T20:56:49.581060168Z
+    created: 2018-05-22T07:56:25.245099077Z
     description: PHP content management system (CMS) for publishing web content
     digest: 485a28d54769680ad543af8cab67dd9a72a86a7017997e2f57e5302b573a2e8d
     engine: gotpl
@@ -16820,7 +16842,7 @@ entries:
   k8s-spot-rescheduler:
   - apiVersion: v1
     appVersion: v0.1.1
-    created: 2018-05-20T20:56:49.581431771Z
+    created: 2018-05-22T16:26:42.049355623Z
     description: A k8s-spot-rescheduler Helm chart for Kubernetes
     digest: 7b77ce555daff7be8230c8497acfbcbadb50adf32a4187ccecadec05fea70148
     home: https://github.com/pusher/k8s-spot-rescheduler
@@ -16875,7 +16897,7 @@ entries:
   kanister-operator:
   - apiVersion: v1
     appVersion: v0.2.0
-    created: 2018-05-20T20:56:49.581751688Z
+    created: 2018-05-22T16:26:42.049695225Z
     description: Kanister-operator Helm chart for Kubernetes
     digest: 0c11354811af41093e633d97149ed306c97000b2044dd04e59fcd1333eed8e0f
     home: https://kanister.io/
@@ -16939,7 +16961,7 @@ entries:
     version: 0.2.0
   kapacitor:
   - appVersion: "1.4"
-    created: 2018-05-20T20:56:49.582134275Z
+    created: 2018-05-22T16:26:42.050106007Z
     description: InfluxDB's native data processing engine. It can process both stream
       and batch data from InfluxDB.
     digest: fcb72704417d6729754123224a8ec5f8462089392d9d6617f48663773858f3dd
@@ -17136,7 +17158,7 @@ entries:
   keel:
   - apiVersion: v1
     appVersion: 0.8.3
-    created: 2018-05-20T20:56:49.58260168Z
+    created: 2018-05-22T16:26:42.050588194Z
     description: Open source, tool for automating Kubernetes deployment updates. Keel
       is stateless, robust and lightweight.
     digest: e4124468f3153d431566596bec00ab99b9cbe2e9da3bdf908e9824cfd0810e88
@@ -17253,7 +17275,7 @@ entries:
     version: 0.1.3
   kibana:
   - appVersion: 6.0.0
-    created: 2018-05-20T20:56:49.582966709Z
+    created: 2018-05-22T16:26:42.050986286Z
     description: Kibana is an open source data visualization plugin for Elasticsearch
     digest: a87b220b62afab006536c9a10b5e2ac951ea5ef060204555c2eb5639e518ecf9
     engine: gotpl
@@ -17439,7 +17461,7 @@ entries:
   kong:
   - apiVersion: v1
     appVersion: 0.13.1
-    created: 2018-05-20T20:56:49.584229993Z
+    created: 2018-05-22T16:26:42.052933845Z
     description: Kong is open-source API Gateway and Microservices Management Layer,
       delivering high performance and reliability.
     digest: 56d2713d3c38cb06e1b5e97c76522601a1e967c82882258d1e521780f578bc01
@@ -17620,7 +17642,7 @@ entries:
   kube-lego:
   - apiVersion: v1
     appVersion: v0.1.6
-    created: 2018-05-20T20:56:49.584626168Z
+    created: 2018-05-22T16:26:42.054339585Z
     deprecated: true
     description: DEPRECATED Automatically requests certificates from Let's Encrypt
     digest: 0f67895f3dd905c72f2a51030d035feb1d879784733d07ed45dfc16d85a838ba
@@ -17935,7 +17957,7 @@ entries:
     version: 0.1.3
   kube-ops-view:
   - appVersion: 1.0.0
-    created: 2018-05-20T20:56:49.58497204Z
+    created: 2018-05-22T16:26:42.054822436Z
     description: Kubernetes Operational View - read-only system dashboard for multiple
       K8s clusters
     digest: 77969e12aa47a34c1954647e9f38063c38f8510e32aef815030cbe25d73eb1b6
@@ -18052,7 +18074,7 @@ entries:
   kube-slack:
   - apiVersion: v1
     appVersion: v3.1.1
-    created: 2018-05-20T20:56:49.585312889Z
+    created: 2018-05-22T16:26:42.055144744Z
     description: Chart for kube-slack, a monitoring service for Kubernetes
     digest: 9707184daa616db0f25c0a9c772266c40a1a0ec7630c256c4a89c7f55af62e3b
     home: https://github.com/wongnai/kube-slack
@@ -18073,7 +18095,7 @@ entries:
   kube-state-metrics:
   - apiVersion: v1
     appVersion: 1.2.0
-    created: 2018-05-20T20:56:49.585698021Z
+    created: 2018-05-22T16:26:42.055577241Z
     description: Install kube-state-metrics to generate and expose cluster-level metrics
     digest: 33365ace280fdca07b2efed42819729e6b243a620930e155c966d9b823ba16fe
     home: https://github.com/kubernetes/kube-state-metrics/
@@ -18376,7 +18398,7 @@ entries:
     version: 0.1.0
   kube2iam:
   - appVersion: 0.10.0
-    created: 2018-05-20T20:56:49.587398449Z
+    created: 2018-05-22T16:26:42.056023237Z
     description: Provide IAM credentials to pods based on annotations.
     digest: cef2a342acb60e0da0f07ce7a94c2912b5032bfaeb5e445d2f67da22bc6571a2
     engine: gotpl
@@ -18912,7 +18934,7 @@ entries:
   kubed:
   - apiVersion: v1
     appVersion: 0.4.0
-    created: 2018-05-20T20:56:49.58796415Z
+    created: 2018-05-22T16:26:42.056486936Z
     deprecated: true
     description: DEPRECATED Kubed by AppsCode - Kubernetes daemon
     digest: a8bc93ca7ab9e0e35b8b18d423ec36d9db7518cc4307be82be0c1ebfe02504f9
@@ -19007,7 +19029,7 @@ entries:
   kubedb:
   - apiVersion: v1
     appVersion: 0.8.0-beta.2
-    created: 2018-05-20T20:56:49.588809822Z
+    created: 2018-05-22T16:26:42.057044498Z
     deprecated: true
     description: DEPRECATED KubeDB by AppsCode - Making running production-grade databases
       easy on Kubernetes
@@ -19076,7 +19098,7 @@ entries:
     version: 0.1.0
   kubernetes-dashboard:
   - appVersion: 1.8.3
-    created: 2018-05-20T20:56:49.589278592Z
+    created: 2018-05-22T16:26:42.057539931Z
     description: General-purpose web UI for Kubernetes clusters
     digest: 7286d3d39a3f2ebf1e5b9743f5720d0f3a58728e4dc353ecc9b08b03c41d7970
     home: https://github.com/kubernetes/dashboard
@@ -19452,7 +19474,7 @@ entries:
   kubewatch:
   - apiVersion: v1
     appVersion: v0.0.3
-    created: 2018-05-20T20:56:49.589662652Z
+    created: 2018-05-22T16:26:42.057978831Z
     description: Kubewatch notifies your slack rooms when changes to your cluster
       occur
     digest: caae0853e3e81c3f2e2326e0ccc0523bb0836b79101e6218a27891f09645901f
@@ -19473,7 +19495,7 @@ entries:
   lamp:
   - apiVersion: v1
     appVersion: "5.7"
-    created: 2018-05-20T20:56:49.591007602Z
+    created: 2018-05-22T16:26:42.05968993Z
     description: Modular and transparent LAMP stack chart supporting PHP-FPM, Release
       Cloning, LoadBalancer, Ingress, SSL and lots more!
     digest: 068d1c0f732628874fb0fb50b446db5c5689af44d91a22b825396788e3eec669
@@ -19547,7 +19569,7 @@ entries:
   linkerd:
   - apiVersion: v1
     appVersion: 1.1.2
-    created: 2018-05-20T20:56:49.59135978Z
+    created: 2018-05-22T16:26:42.06007999Z
     description: Service mesh for cloud native apps
     digest: fe6a39f9aad1c36ff6faccb1acc927c04983a316853827c2e3a3a57d0383f104
     home: https://linkerd.io/
@@ -19637,7 +19659,7 @@ entries:
     version: 0.1.0
   locust:
   - appVersion: 0.7.5
-    created: 2018-05-20T20:56:49.591716519Z
+    created: 2018-05-22T16:26:42.060468381Z
     description: A modern load testing framework
     digest: 533d0665b716871d87aa0feb7d7b7a3a7a04e4137519a30b91af70144c80b0e3
     home: http://locust.io
@@ -19716,7 +19738,7 @@ entries:
   luigi:
   - apiVersion: v1
     appVersion: 2.7.2
-    created: 2018-05-20T20:56:49.592529311Z
+    created: 2018-05-22T16:26:42.061423493Z
     description: Luigi is a Python module that helps you build complex pipelines of
       batch jobs. It handles dependency resolution, workflow management, visualization
       etc. It also comes with Hadoop support built in.
@@ -19771,7 +19793,7 @@ entries:
     version: 2.7.2
   magento:
   - appVersion: 2.2.4
-    created: 2018-05-20T20:56:49.593479108Z
+    created: 2018-05-22T16:26:42.062500894Z
     description: A feature-rich flexible e-commerce solution. It includes transaction
       options, multi-store functionality, loyalty programs, product categorization
       and shopper filtering, promotion rules, and more.
@@ -20508,7 +20530,7 @@ entries:
   magic-namespace:
   - apiVersion: v1
     appVersion: 2.8.1
-    created: 2018-05-20T20:56:49.593911191Z
+    created: 2018-05-22T16:26:42.062979223Z
     description: Elegantly enables a Tiller per namespace in RBAC-enabled clusters
     digest: 68d7dd4b77385ad4d530937fbef28219f1cdecf02aebe30bbd1967148240f93a
     home: https://github.com/kubernetes/charts/tree/master/stable/magic-namespace
@@ -20534,7 +20556,7 @@ entries:
   mailhog:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2018-05-20T20:56:49.594330247Z
+    created: 2018-05-22T16:26:42.063490977Z
     description: An e-mail testing tool for developers
     digest: 26ee54020f760d4c7347d87225b22215f74438410dc1f1cc758ddd35ea9c73bc
     home: http://iankent.uk/project/mailhog/
@@ -20670,7 +20692,7 @@ entries:
     version: 1.0.0
   mariadb:
   - appVersion: 10.1.32
-    created: 2018-05-20T20:56:49.595007248Z
+    created: 2018-05-22T16:26:42.064191627Z
     description: Fast, reliable, scalable, and easy to use open-source relational
       database system. MariaDB Server is intended for mission-critical, heavy-load
       production systems as well as for embedding into mass-deployed software. Highly
@@ -22039,7 +22061,7 @@ entries:
     version: 0.3.0
   mcrouter:
   - appVersion: 0.36.0
-    created: 2018-05-20T20:56:49.595643689Z
+    created: 2018-05-22T16:26:42.06484511Z
     description: Mcrouter is a memcached protocol router for scaling memcached deployments.
     digest: 165a71391f3ce70b6a9f79b85140c2c788594d2c55407e7cea23a05d55e4e007
     engine: gotpl
@@ -22072,7 +22094,7 @@ entries:
     version: 0.1.0
   mediawiki:
   - appVersion: 1.30.0
-    created: 2018-05-20T20:56:49.596464483Z
+    created: 2018-05-22T16:26:42.065774079Z
     description: Extremely powerful, scalable software and a feature-rich wiki implementation
       that uses PHP to process and display data stored in a database.
     digest: 769b478abf66431ff01d1ef5b75989e6402107d075d426f0f0d22217f6c28c00
@@ -22718,7 +22740,7 @@ entries:
     version: 0.4.0
   memcached:
   - appVersion: 1.5.6
-    created: 2018-05-20T20:56:49.596797823Z
+    created: 2018-05-22T16:26:42.06613555Z
     description: Free & open source, high-performance, distributed memory object caching
       system.
     digest: 22a5f092ff20502c523559a360a0159d327351c16263c23a8686a49b7231317d
@@ -22987,7 +23009,7 @@ entries:
   metabase:
   - apiVersion: v1
     appVersion: v0.27.2
-    created: 2018-05-20T20:56:49.597219865Z
+    created: 2018-05-22T16:26:42.066597613Z
     description: The easy, open source way for everyone in your company to ask questions
       and learn from data.
     digest: 53359c8ecc9fa87b68eed58ca8a1227bcddceaf95f6557d53fcc75ed97813702
@@ -23107,7 +23129,7 @@ entries:
   metallb:
   - apiVersion: v1
     appVersion: 0.6.2
-    created: 2018-05-20T20:56:49.59764594Z
+    created: 2018-05-22T16:26:42.067014454Z
     description: MetalLB is a load-balancer implementation for bare metal Kubernetes
       clusters
     digest: efb527e7950ab65d97ca1f9bd9a70ff6e0abebb656eed9cd575c84498788a4df
@@ -23268,7 +23290,7 @@ entries:
     version: 0.1.0
   minecraft:
   - appVersion: 1.12.2
-    created: 2018-05-20T20:56:49.598068358Z
+    created: 2018-05-22T16:26:42.067528877Z
     description: Minecraft server
     digest: dbbe4c81ca99eea7420fb7192f0b88e8589bd6cc7f48e51bc6fc086a7c15a43d
     home: https://minecraft.net/
@@ -23384,7 +23406,7 @@ entries:
   minio:
   - apiVersion: v1
     appVersion: RELEASE.2018-04-27T23-33-52Z
-    created: 2018-05-20T20:56:49.598727987Z
+    created: 2018-05-22T16:26:42.06939564Z
     description: Distributed object storage server built for cloud applications and
       devops.
     digest: cd03267928387cb56e85b32ea15ce0443ee0a7e4c0e3a0b4b7b33c2fec47089f
@@ -24106,6 +24128,28 @@ entries:
     - https://kubernetes-charts.storage.googleapis.com/minio-0.0.1.tgz
     version: 0.0.1
   mongodb:
+  - appVersion: 3.6.5
+    created: 2018-05-22T16:26:42.07056373Z
+    description: NoSQL document-oriented database that stores JSON-like documents
+      with dynamic schemas, simplifying the integration of data in content-driven
+      applications.
+    digest: 274e8a945af2e87da4a45e33829f5dd413637874e417cffdf81ec695d0f934ba
+    engine: gotpl
+    home: https://mongodb.org
+    icon: https://bitnami.com/assets/stacks/mongodb/img/mongodb-stack-220x234.png
+    keywords:
+    - mongodb
+    - database
+    - nosql
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: mongodb
+    sources:
+    - https://github.com/bitnami/bitnami-docker-mongodb
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/mongodb-2.0.6.tgz
+    version: 2.0.6
   - appVersion: 3.6.4
     created: 2018-05-20T20:56:49.599188376Z
     description: NoSQL document-oriented database that stores JSON-like documents
@@ -24936,7 +24980,7 @@ entries:
     version: 0.4.0
   mongodb-replicaset:
   - appVersion: "3.6"
-    created: 2018-05-20T20:56:49.599935447Z
+    created: 2018-05-22T16:26:42.072087993Z
     description: NoSQL document-oriented database that stores JSON-like documents
       with dynamic schemas, simplifying the integration of data in content-driven
       applications.
@@ -25373,7 +25417,7 @@ entries:
     version: 1.0.0
   moodle:
   - appVersion: 3.5.0
-    created: 2018-05-20T20:56:49.600828652Z
+    created: 2018-05-22T16:26:42.073741842Z
     description: Moodle is a learning platform designed to provide educators, administrators
       and learners with a single robust, secure and integrated system to create personalised
       learning environments
@@ -26093,7 +26137,7 @@ entries:
   msoms:
   - apiVersion: v1
     appVersion: 1.0.0-30
-    created: 2018-05-20T20:56:49.601481242Z
+    created: 2018-05-22T16:26:42.080722915Z
     description: A chart for deploying omsagent as a daemonset Kubernetes
     digest: 03b0e333b078b43c02bc07076e869335e448261b25baf278d03b3b432b3fb00b
     home: https://azure.microsoft.com/en-us/services/log-analytics/
@@ -26224,7 +26268,7 @@ entries:
   mssql-linux:
   - apiVersion: v1
     appVersion: 14.0.3023.8
-    created: 2018-05-20T20:56:49.602337502Z
+    created: 2018-05-22T16:26:42.081252829Z
     description: SQL Server 2017 Linux Helm Chart
     digest: 864a35640f45f61d7cbb626c45930bb971a3163e353feecbaf3b073c79061d0f
     home: https://hub.docker.com/r/microsoft/mssql-server-linux/
@@ -26380,7 +26424,7 @@ entries:
     version: 0.1.6
   mysql:
   - appVersion: 5.7.14
-    created: 2018-05-20T20:56:49.603205172Z
+    created: 2018-05-22T16:26:42.081837095Z
     description: Fast, reliable, scalable, and easy to use open-source relational
       database system.
     digest: 36313fc34c5d7cecfde2a3fab110dde9672aaa5544b0217cf0b76f8ea98d842b
@@ -26961,7 +27005,7 @@ entries:
     version: 0.1.0
   namerd:
   - apiVersion: v1
-    created: 2018-05-20T20:56:49.603883199Z
+    created: 2018-05-22T16:26:42.082174172Z
     description: Service that manages routing for multiple linkerd instances
     digest: 214695248888046a6ef074cc373b27b0fc828fdd9d984a69f6c5a676ed910745
     home: https://linkerd.io/in-depth/namerd/
@@ -26992,7 +27036,7 @@ entries:
     version: 0.1.0
   neo4j:
   - appVersion: 3.3.4
-    created: 2018-05-20T20:56:49.604530574Z
+    created: 2018-05-22T16:26:42.083087391Z
     description: Neo4j is the world's leading graph database
     digest: 31b53570772ace9637ea87498544a77c027fb9bce00902bc80f49a93098b985a
     home: https://www.neo4j.com
@@ -27164,7 +27208,7 @@ entries:
   newrelic-infrastructure:
   - apiVersion: v1
     appVersion: 0.0.19
-    created: 2018-05-20T20:56:49.604997884Z
+    created: 2018-05-22T16:26:42.083501948Z
     description: A Helm chart to deploy the New Relic Infrastructure Agent as a DaemonSet
     digest: 4cd255dd6ad00982c7058a52270139b02fed476ae5fab96b825510a3788e791c
     engine: gotpl
@@ -27336,7 +27380,7 @@ entries:
   nfs-server-provisioner:
   - apiVersion: v1
     appVersion: 1.0.8
-    created: 2018-05-20T20:56:49.605513356Z
+    created: 2018-05-22T16:26:42.084006902Z
     description: nfs-server-provisioner is an out-of-tree dynamic provisioner for
       Kubernetes. You can use it to quickly & easily deploy shared storage that works
       almost anywhere.
@@ -27415,7 +27459,7 @@ entries:
     version: 0.1.0
   nginx-ingress:
   - appVersion: 0.14.0
-    created: 2018-05-20T20:56:49.606434502Z
+    created: 2018-05-22T16:26:42.084850654Z
     description: An nginx Ingress controller that uses ConfigMap to store the nginx
       configuration.
     digest: 0c383d889cad6419131e8ea99b8d6542ccb1fddae9653d810ac20ccaa9b06922
@@ -28899,7 +28943,7 @@ entries:
     - https://kubernetes-charts.storage.googleapis.com/nginx-ingress-0.3.0.tgz
     version: 0.3.0
   nginx-lego:
-  - created: 2018-05-20T20:56:49.606821939Z
+  - created: 2018-05-22T16:26:42.085260274Z
     deprecated: true
     description: Chart for nginx-ingress-controller and kube-lego
     digest: 3b9f4a4e254669f277281185b148e4631932d4004bf81023b33324cb4b9362de
@@ -29019,7 +29063,7 @@ entries:
   oauth2-proxy:
   - apiVersion: v1
     appVersion: "2.2"
-    created: 2018-05-20T20:56:49.607260067Z
+    created: 2018-05-22T16:26:42.085672045Z
     description: A reverse proxy that provides authentication with Google, Github
       or other providers
     digest: ef9765ae2a48cbee76250fb702cfc3636d14b343c8a301d1cbc9a7749bc38940
@@ -29184,7 +29228,7 @@ entries:
     version: 0.2.0
   odoo:
   - appVersion: 11.0.20180515
-    created: 2018-05-20T20:56:49.60810876Z
+    created: 2018-05-22T16:26:42.086518817Z
     description: A suite of web based open source business apps.
     digest: db21402576275eabcf6af7fa8510b746a1847f1b9ad11b4c4b868063b984cf09
     engine: gotpl
@@ -30099,7 +30143,7 @@ entries:
     version: 0.4.0
   opencart:
   - appVersion: 3.0.2
-    created: 2018-05-20T20:56:49.609050706Z
+    created: 2018-05-22T16:26:42.087433456Z
     description: A free and open source e-commerce platform for online merchants.
       It provides a professional and reliable foundation for a successful online store.
     digest: ebc42e1e21a90a714c6dacf4e746c57d8d440d7ea8e81d45c8dcb3f179775d96
@@ -30712,7 +30756,7 @@ entries:
   openebs:
   - apiVersion: v1
     appVersion: 0.5.3
-    created: 2018-05-20T20:56:49.609508825Z
+    created: 2018-05-22T16:26:42.087896506Z
     description: Containerized Storage for Containers
     digest: 22a148002cdd13115ed6bb0f57aaad1ce5d4847e11676a78960fd151680e25b0
     home: http://www.openebs.io/
@@ -30755,7 +30799,7 @@ entries:
   openvpn:
   - apiVersion: v1
     appVersion: 1.1.0
-    created: 2018-05-20T20:56:49.610016234Z
+    created: 2018-05-22T16:26:42.088437267Z
     description: A Helm chart to install an openvpn server inside a kubernetes cluster.  Certificate
       generation is also part of the deployment, and this chart will generate client
       keys as needed.
@@ -31265,7 +31309,7 @@ entries:
     version: 1.0.0
   orangehrm:
   - appVersion: 4.1.0
-    created: 2018-05-20T20:56:49.611029456Z
+    created: 2018-05-22T16:26:42.08946663Z
     description: OrangeHRM is a free HR management system that offers a wealth of
       modules to suit the needs of your business.
     digest: 88509070797e9e54285329c4e8bf0b636828bdde2d1d4ea00687a454867166b0
@@ -31981,7 +32025,7 @@ entries:
     version: 0.4.0
   osclass:
   - appVersion: 3.7.4
-    created: 2018-05-20T20:56:49.611921353Z
+    created: 2018-05-22T16:26:42.090403118Z
     description: Osclass is a php script that allows you to quickly create and manage
       your own free classifieds site.
     digest: 0a38270e365988586966b5d7635a93fc8e1506994511edb3dfc0e848f4a2902f
@@ -32506,7 +32550,7 @@ entries:
     version: 0.4.0
   owncloud:
   - appVersion: 10.0.8
-    created: 2018-05-20T20:56:49.612842138Z
+    created: 2018-05-22T16:26:42.091350566Z
     description: A file sharing server that puts the control and security of your
       own data back into your hands.
     digest: 8d52538fab56b8fdce28c478b6636ce9cd074f95a1b64b4691675835143bae2f
@@ -33297,7 +33341,7 @@ entries:
   pachyderm:
   - apiVersion: v1
     appVersion: 1.7.0
-    created: 2018-05-20T20:56:49.613406914Z
+    created: 2018-05-22T16:26:42.091925884Z
     description: |
       Pachyderm is a large-scale container-based workflow engine that offers complete version control for data and reproducible data processing
     digest: 748bb94b2153710d47eeb3c23f207dbedec1b9414e6e40ae7247475a17f19f97
@@ -33485,6 +33529,31 @@ entries:
     - https://kubernetes-charts.storage.googleapis.com/pachyderm-0.1.0.tgz
     version: 0.1.0
   parse:
+  - appVersion: 2.8.0
+    created: 2018-05-22T16:26:42.092763306Z
+    description: Parse is a platform that enables users to add a scalable and powerful
+      backend to launch a full-featured app for iOS, Android, JavaScript, Windows,
+      Unity, and more.
+    digest: d7cf85f9268d276462af1dc9e37524fb01056c0880ddd65223d424a4de5d3bbe
+    engine: gotpl
+    home: https://parse.com/
+    keywords:
+    - parse
+    - backend
+    - serverless
+    - platform
+    - mbaas
+    - mobile
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: parse
+    sources:
+    - https://github.com/bitnami/bitnami-docker-parse
+    - https://github.com/bitnami/bitnami-docker-parse-dashboard
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/parse-1.0.4.tgz
+    version: 1.0.4
   - appVersion: 2.7.4
     created: 2018-05-20T20:56:49.614198132Z
     description: Parse is a platform that enables users to add a scalable and powerful
@@ -34110,7 +34179,7 @@ entries:
     version: 0.2.0
   percona:
   - appVersion: 5.7.17
-    created: 2018-05-20T20:56:49.614637099Z
+    created: 2018-05-22T16:26:42.093175788Z
     description: free, fully compatible, enhanced, open source drop-in replacement
       for MySQL
     digest: 5b01af2ee00de5db7716f0e8a7d9f06672e9ddc38859305eb2a8f4ccaa22dfd3
@@ -34266,7 +34335,7 @@ entries:
     version: 0.1.0
   percona-xtradb-cluster:
   - appVersion: 5.7.19
-    created: 2018-05-20T20:56:49.615281134Z
+    created: 2018-05-22T16:26:42.093842267Z
     description: free, fully compatible, enhanced, open source drop-in replacement
       for MySQL with Galera Replication (xtradb)
     digest: c94563c4c246043571fa3cec1ae63fdc96f8a6a9396f9f8ee2a9d9fbd29e8d0c
@@ -34449,7 +34518,7 @@ entries:
     version: 0.0.1
   phabricator:
   - appVersion: 2018.19.0
-    created: 2018-05-20T20:56:49.61623745Z
+    created: 2018-05-22T16:26:42.096581342Z
     description: Collection of open source web applications that help software companies
       build better software.
     digest: 5dcd91b14323314f5b9629f406d7474be3642157afb52a7e79a1b3b933444956
@@ -36238,7 +36307,7 @@ entries:
     version: 0.4.0
   phpbb:
   - appVersion: 3.2.2
-    created: 2018-05-20T20:56:49.617068464Z
+    created: 2018-05-22T16:26:42.116962682Z
     description: Community forum that supports the notion of users and groups, file
       attachments, full-text search, notifications and more.
     digest: b48b034df0e7d62124bef7b4f8aade1546dd080f9c0c5dab9b90804001916213
@@ -36841,7 +36910,7 @@ entries:
     version: 0.4.0
   postgresql:
   - appVersion: 9.6.2
-    created: 2018-05-20T20:56:49.618203669Z
+    created: 2018-05-22T16:26:42.117710306Z
     description: Object-relational database management system (ORDBMS) with an emphasis
       on extensibility and on standards-compliance.
     digest: 374d2a98858e97ad4c99f05806886a68c00c08e97eec0fb1ce2f1321fddfcd73
@@ -37738,7 +37807,7 @@ entries:
     version: 0.1.0
   prestashop:
   - appVersion: 1.7.3-2
-    created: 2018-05-20T20:56:49.640788095Z
+    created: 2018-05-22T16:26:42.118692086Z
     description: A popular open source ecommerce solution. Professional tools are
       easily accessible to increase online sales including instant guest checkout,
       abandoned cart reminders and automated Email marketing.
@@ -38545,7 +38614,7 @@ entries:
   presto:
   - apiVersion: v1
     appVersion: "0.196"
-    created: 2018-05-20T20:56:49.641703757Z
+    created: 2018-05-22T16:26:42.119085222Z
     description: Distributed SQL query engine for running interactive analytic queries
     digest: 7e3db2b411de3019904b8544f768e13ddc8e23f7f30f90e3245bb40f3f72420c
     home: https://prestodb.io
@@ -38561,7 +38630,7 @@ entries:
     version: "0.1"
   prometheus:
   - appVersion: 2.2.1
-    created: 2018-05-20T20:56:49.64303315Z
+    created: 2018-05-22T16:26:42.12035582Z
     description: Prometheus is a monitoring system and time series database.
     digest: b1a730c7d50e8e29b9be68ac186fe80e4bcfdc1816aaee30e3adc0d83040b028
     engine: gotpl
@@ -40060,7 +40129,7 @@ entries:
   prometheus-cloudwatch-exporter:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: 2018-05-20T20:56:49.64351582Z
+    created: 2018-05-22T16:26:42.120817066Z
     description: A Helm chart for prometheus cloudwatch-exporter
     digest: aed12934241237f6eab7482942c1d88a0f31b6eb53e599731da75b8d2721350a
     home: https://github.com/prometheus/cloudwatch_exporter
@@ -40120,7 +40189,7 @@ entries:
   prometheus-mysql-exporter:
   - apiVersion: v1
     appVersion: v0.10.0
-    created: 2018-05-20T20:56:49.643892155Z
+    created: 2018-05-22T16:26:42.121174992Z
     description: A Helm chart for prometheus mysql exporter with cloudsqlproxy
     digest: ea8a13285dbdfecf29bf5d55de822b1168725230f02f64b5deb190733299683e
     home: https://github.com/prometheus/mysqld_exporter
@@ -40133,7 +40202,7 @@ entries:
   prometheus-node-exporter:
   - apiVersion: v1
     appVersion: 0.15.2
-    created: 2018-05-20T20:56:49.64430988Z
+    created: 2018-05-22T16:26:42.121572463Z
     description: A Helm chart for prometheus node-exporter
     digest: 6f64abc000e5358943829d0e14f48fbcc27cad79f17c352a8aa38c068aa0861d
     home: https://github.com/prometheus/node_exporter/
@@ -40191,7 +40260,7 @@ entries:
   prometheus-postgres-exporter:
   - apiVersion: v1
     appVersion: 0.4.4
-    created: 2018-05-20T20:56:49.645078447Z
+    created: 2018-05-22T16:26:42.121997353Z
     description: A Helm chart for prometheus postgres-exporter
     digest: 3b01e47daf8ef849e512027ef1571b8b9fef6b7b9a507eb3ac023783c898ceae
     keywords:
@@ -40210,7 +40279,7 @@ entries:
   prometheus-pushgateway:
   - apiVersion: v1
     appVersion: 0.4.0
-    created: 2018-05-20T20:56:49.64550596Z
+    created: 2018-05-22T16:26:42.122428509Z
     description: A Helm chart for prometheus pushgateway
     digest: 4aed46ae38f3cd406a6178f801cd098a5ab3042b87e3a4b4d082e28485b3fe55
     home: https://github.com/prometheus/pushgateway
@@ -40265,7 +40334,7 @@ entries:
   prometheus-rabbitmq-exporter:
   - apiVersion: v1
     appVersion: v0.28.0
-    created: 2018-05-20T20:56:49.645841946Z
+    created: 2018-05-22T16:26:42.122759126Z
     description: Rabbitmq metrics exporter for prometheus
     digest: a1043cf901beddb2d119af1318eaa7417a42ceae4b1ecfd79557fa9a1e230b9a
     home: https://github.com/kbudde/rabbitmq_exporter
@@ -40278,7 +40347,7 @@ entries:
   prometheus-redis-exporter:
   - apiVersion: v1
     appVersion: 0.16.0
-    created: 2018-05-20T20:56:49.646217228Z
+    created: 2018-05-22T16:26:42.123110362Z
     description: Prometheus exporter for Redis metrics
     digest: 7d25bf1d36db543dd2d4a18397245da3f546697cc1360327c880b096ab975236
     home: https://github.com/oliver006/redis_exporter
@@ -40315,7 +40384,7 @@ entries:
   prometheus-to-sd:
   - apiVersion: v1
     appVersion: 0.2.2
-    created: 2018-05-20T20:56:49.646601916Z
+    created: 2018-05-22T16:26:42.123426998Z
     description: Scrape metrics stored in prometheus format and push them to the Stackdriver
     digest: 02980c4dd065476cf942fa5c3cefdff7efe77469733bdb4db31bc51fa745599a
     home: https://github.com/GoogleCloudPlatform/k8s-stackdriver/tree/master/prometheus-to-sd
@@ -40332,7 +40401,7 @@ entries:
   quassel:
   - apiVersion: v1
     appVersion: 0.12.4
-    created: 2018-05-20T20:56:49.647488618Z
+    created: 2018-05-22T16:26:42.124331868Z
     description: Quassel IRC is a modern, cross-platform, distributed IRC client.
     digest: 28ed12d69b4a492ad8fe7722bafdd9fe3116f8cf2156fa4973267cc01f8904a5
     home: https://quassel-irc.org/
@@ -40522,7 +40591,7 @@ entries:
     version: 0.2.0
   rabbitmq:
   - appVersion: 3.7.5
-    created: 2018-05-20T20:56:49.648141743Z
+    created: 2018-05-22T16:26:42.124981495Z
     description: Open source message broker software that implements the Advanced
       Message Queuing Protocol (AMQP)
     digest: b237c41d73617c5bf878b2e1d74ed4dae14750f3c0267525ff79463ff7da01de
@@ -41604,7 +41673,7 @@ entries:
   rabbitmq-ha:
   - apiVersion: v1
     appVersion: 3.7.4
-    created: 2018-05-20T20:56:49.648869499Z
+    created: 2018-05-22T16:26:42.125706493Z
     description: Highly available RabbitMQ cluster, the open source message broker
       software that implements the Advanced Message Queuing Protocol (AMQP).
     digest: 73a5027ade5fb3ae6d261a8188b9418e536d842678cceb0d3f216480e2125298
@@ -42146,7 +42215,7 @@ entries:
     version: 0.1.0
   redis:
   - appVersion: 4.0.9
-    created: 2018-05-20T20:56:49.649708164Z
+    created: 2018-05-22T16:26:42.126530145Z
     description: Open source, advanced key-value store. It is often referred to as
       a data structure server since keys can contain strings, hashes, lists, sets
       and sorted sets.
@@ -43618,7 +43687,7 @@ entries:
     version: 0.4.0
   redis-ha:
   - appVersion: 4.0.8-r0
-    created: 2018-05-20T20:56:49.650230208Z
+    created: 2018-05-22T16:26:42.127125378Z
     description: Highly available Redis cluster with multiple sentinels and standbys.
     digest: d51a3561d57687f6907de0ff653f4db945c0a6c5afb1d71c1a0c80c231beb323
     engine: gotpl
@@ -43859,7 +43928,7 @@ entries:
     version: 0.2.0
   redmine:
   - appVersion: 3.4.5
-    created: 2018-05-20T20:56:49.651425415Z
+    created: 2018-05-22T16:26:42.128432081Z
     description: A flexible project management web application.
     digest: 300be0e7c1be9c7110fa86441ff3b7dff27e8740910d5e1b9926d769c6a71110
     engine: gotpl
@@ -44778,7 +44847,7 @@ entries:
     version: 0.3.0
   rethinkdb:
   - appVersion: 0.1.0
-    created: 2018-05-20T20:56:49.65194565Z
+    created: 2018-05-22T16:26:42.128993339Z
     description: The open-source database for the realtime web
     digest: f932d4efd3225ed6633c4f933f4a8de687fde60cda06ef9bc84e39656c41456e
     home: https://www.rethinkdb.com
@@ -44927,7 +44996,7 @@ entries:
   risk-advisor:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: 2018-05-20T20:56:49.652318996Z
+    created: 2018-05-22T16:26:42.129381409Z
     description: Risk Advisor add-on module for Kubernetes
     digest: 4a56edc970e4819d0f04aa3416e28e21c96c3ae98a3cea07b49994d317e496ff
     home: https://www.riskadvisory.net/
@@ -45053,7 +45122,7 @@ entries:
     version: 1.0.0
   rocketchat:
   - appVersion: "0.56"
-    created: 2018-05-20T20:56:49.653012703Z
+    created: 2018-05-22T16:26:42.130133144Z
     description: Prepare to take off with the ultimate chat platform, experience the
       next level of team communications
     digest: fcd76538b79e752a8233f4242121568d48e196c02d88f7d75880904e987c71c9
@@ -45244,7 +45313,7 @@ entries:
     version: 0.0.1
   sapho:
   - apiVersion: v1
-    created: 2018-05-20T20:56:49.653843433Z
+    created: 2018-05-22T16:26:42.132767195Z
     description: A micro application development and integration platform that enables
       organizations to create and deliver secure micro applications that tie into
       existing business systems and track changes to key business data.
@@ -45402,7 +45471,7 @@ entries:
   schema-registry-ui:
   - apiVersion: v1
     appVersion: v0.9.4
-    created: 2018-05-20T20:56:49.654243807Z
+    created: 2018-05-22T16:26:42.133173441Z
     description: This is a web tool for the confluentinc/schema-registry in order
       to create / view / search / evolve / view history & configure Avro schemas of
       your Kafka cluster.
@@ -45425,7 +45494,7 @@ entries:
   searchlight:
   - apiVersion: v1
     appVersion: 5.0.0
-    created: 2018-05-20T20:56:49.654666338Z
+    created: 2018-05-22T16:26:42.133584807Z
     deprecated: true
     description: DEPRECATED Searchlight by AppsCode - Alerts for Kubernetes
     digest: 7f722adea61a83266dd7af4b82fa1f49def58294f18442b32b59c35c6dd492a4
@@ -45519,7 +45588,7 @@ entries:
     version: 0.1.0
   selenium:
   - appVersion: 3.11.0
-    created: 2018-05-20T20:56:49.655438843Z
+    created: 2018-05-22T16:26:42.13424005Z
     description: Chart for selenium grid
     digest: c2fac99ff95085ee7901bd12d364dd0d71da66c471c93a6c641526760da5a0ac
     engine: gotpl
@@ -45802,7 +45871,7 @@ entries:
     version: 0.1.0
   sematext-docker-agent:
   - appVersion: 1.31.50
-    created: 2018-05-20T20:56:49.656150283Z
+    created: 2018-05-22T16:26:42.134586155Z
     description: Sematext Docker Agent
     digest: 0ba662bed81e1be367913e89be6a792e855a1945fd5feb2782f24bb9476b3797
     home: https://sematext.com/
@@ -45919,7 +45988,7 @@ entries:
   sensu:
   - apiVersion: v1
     appVersion: "0.28"
-    created: 2018-05-20T20:56:49.657547715Z
+    created: 2018-05-22T16:26:42.135255205Z
     description: Sensu monitoring framework backed by the Redis transport
     digest: 51a5ac43327cbe4c90300d0276d030dff2eb0979bdb94103dd74adf5b1e804f1
     engine: gotpl
@@ -46090,7 +46159,7 @@ entries:
   sentry:
   - apiVersion: v1
     appVersion: "8.17"
-    created: 2018-05-20T20:56:49.658861451Z
+    created: 2018-05-22T16:26:42.13649064Z
     description: Sentry is a cross-platform crash reporting and aggregation platform.
     digest: a788159270e2723510fc23dce5771b98b03b3278f46a812ed9982162bc63dd32
     home: https://sentry.io/
@@ -46371,7 +46440,7 @@ entries:
     version: 0.1.0
   seq:
   - appVersion: 5.0.832-pre
-    created: 2018-05-20T20:56:49.659297156Z
+    created: 2018-05-22T16:26:42.136913141Z
     description: Seq is the easiest way for development teams to capture, search and
       visualize structured log events! This page will walk you through the very quick
       setup process.
@@ -46423,7 +46492,7 @@ entries:
   signalfx-agent:
   - apiVersion: v1
     appVersion: 3.1.9
-    created: 2018-05-20T20:56:49.659831261Z
+    created: 2018-05-22T16:26:42.137413401Z
     description: The SignalFx Kubernetes agent
     digest: 15b564c4debb927f4e780f25b1ffa0ac244fb040ecacb1277935160cd72ba5d2
     home: https://signalfx.com
@@ -46465,7 +46534,7 @@ entries:
     version: 0.1.0
   sonarqube:
   - appVersion: 6.7.3
-    created: 2018-05-20T20:56:49.660784866Z
+    created: 2018-05-22T16:26:42.138407654Z
     description: Sonarqube is an open sourced code quality scanning tool
     digest: 03a6f8facb7177f7264745ace6ba30bdf619200be5c1a009507dcbaddf999886
     home: https://www.sonarqube.org/
@@ -46886,7 +46955,7 @@ entries:
     version: 0.1.0
   sonatype-nexus:
   - appVersion: 3.11.0-01
-    created: 2018-05-20T20:56:49.661385459Z
+    created: 2018-05-22T16:26:42.138983903Z
     description: Sonatype Nexus is an open source repository manager
     digest: f4e7d910538e9c0e790defaed0a5fae7c1f3bf84d70acddf3b14db7cc335999e
     home: https://www.sonatype.com/nexus-repository-oss
@@ -47372,7 +47441,7 @@ entries:
     version: 0.1.0
   spark:
   - appVersion: 1.5.1
-    created: 2018-05-20T20:56:49.661793557Z
+    created: 2018-05-22T16:26:42.139384471Z
     description: Fast and general-purpose cluster computing system.
     digest: 45473460453be0a6fc318b9dfe22e92064b1891bb0145205b260e542edc704e4
     home: http://spark.apache.org
@@ -47554,7 +47623,7 @@ entries:
     version: 0.1.1
   spartakus:
   - appVersion: 1.0.0
-    created: 2018-05-20T20:56:49.662077427Z
+    created: 2018-05-22T16:26:42.139682617Z
     description: Collect information about Kubernetes clusters to help improve the
       project.
     digest: 76188f6c153d12bd4ce0565be686c60c104f21ae69c6375b370a0839bc9bc2f3
@@ -47656,7 +47725,7 @@ entries:
   spinnaker:
   - apiVersion: v1
     appVersion: 1.6.0
-    created: 2018-05-20T20:56:49.664863363Z
+    created: 2018-05-22T16:26:42.142552816Z
     description: Open source, multi-cloud continuous delivery platform for releasing
       software changes with high velocity and confidence.
     digest: d1a1b91d22b15614b3bcf0bc4012bdc23fb1cf4c9013e658c58fdb6bf897648a
@@ -48046,7 +48115,7 @@ entries:
     version: 0.1.0
   spotify-docker-gc:
   - appVersion: latest
-    created: 2018-05-20T20:56:49.665176895Z
+    created: 2018-05-22T16:26:42.142859189Z
     description: A simple Docker container and image garbage collection script.
     digest: d264774d9273675b5150b8ff4536e6dfbd1d475c493e2e1ad0dcacde43d95e47
     home: https://github.com/spotify/docker-gc
@@ -48101,7 +48170,7 @@ entries:
   stackdriver-exporter:
   - apiVersion: v1
     appVersion: 0.5.1
-    created: 2018-05-20T20:56:49.665561216Z
+    created: 2018-05-22T16:26:42.14321896Z
     description: Stackdriver exporter for Prometheus
     digest: 9d6348477aa8590a9a68f588cabd2a4bad7d2beefd4d6ceedf8046425b080d35
     home: https://www.stackdriver.com/
@@ -48177,7 +48246,7 @@ entries:
   stash:
   - apiVersion: v1
     appVersion: 0.7.0-rc.1
-    created: 2018-05-20T20:56:49.666004713Z
+    created: 2018-05-22T16:26:42.14366293Z
     deprecated: true
     description: DEPRECATED Stash by AppsCode - Backup your Kubernetes Volumes
     digest: 8cc632e3e32e9c226de38db5426170ea9efade801e778106216c4fc449323f37
@@ -48319,7 +48388,7 @@ entries:
     version: 0.1.0
   sugarcrm:
   - appVersion: 6.5.26
-    created: 2018-05-20T20:56:49.66686741Z
+    created: 2018-05-22T16:26:42.144480843Z
     deprecated: true
     description: DEPRECATED SugarCRM enables businesses to create extraordinary customer
       relationships with the most innovative and affordable CRM solution in the market.
@@ -48652,7 +48721,7 @@ entries:
     version: 0.2.0
   suitecrm:
   - appVersion: 7.10.4
-    created: 2018-05-20T20:56:49.66774512Z
+    created: 2018-05-22T16:26:42.145338982Z
     description: SuiteCRM is a completely open source enterprise-grade Customer Relationship
       Management (CRM) application. SuiteCRM is a software fork of the popular customer
       relationship management (CRM) system SugarCRM.
@@ -49155,7 +49224,7 @@ entries:
     version: 0.2.0
   sumokube:
   - appVersion: latest
-    created: 2018-05-20T20:56:49.668661843Z
+    created: 2018-05-22T16:26:42.147618318Z
     description: Sumologic Log Collector
     digest: 5acfbbb889d91e5a09678fd97cdf54293396ce69409896923291073e0da14afd
     home: https://www.sumologic.com/
@@ -49243,7 +49312,7 @@ entries:
     version: 0.1.0
   sumologic-fluentd:
   - appVersion: "1.14"
-    created: 2018-05-20T20:56:49.669789787Z
+    created: 2018-05-22T16:26:42.148774103Z
     description: Sumologic Log Collector
     digest: 99846660612901ba2d837667e4ff09cebaa7604e869f53def13ce3b3b4abf64d
     home: https://github.com/SumoLogic/fluentd-kubernetes-sumologic
@@ -49440,7 +49509,7 @@ entries:
     version: 0.1.0
   superset:
   - appVersion: 0.24.0
-    created: 2018-05-20T20:56:49.670328014Z
+    created: 2018-05-22T16:26:42.1493255Z
     description: Apache Superset (incubating) is a modern, enterprise-ready business
       intelligence web application
     digest: b7b5bd8d6e96cafdff2a045940943836c7b2ebccdafe9b8870c9a02abbe2bbcc
@@ -49460,7 +49529,7 @@ entries:
   swift:
   - apiVersion: v1
     appVersion: 0.7.3
-    created: 2018-05-20T20:56:49.67069193Z
+    created: 2018-05-22T16:26:42.149688786Z
     deprecated: true
     description: DEPRECATED swift by AppsCode - Ajax friendly Helm Tiller Proxy
     digest: fa16c29496cd88b8df51c6c9d5ffe69c7ad91fd05da4a8a21f2c16ea16bc8da2
@@ -49601,7 +49670,7 @@ entries:
     - https://kubernetes-charts.storage.googleapis.com/swift-0.1.0.tgz
     version: 0.1.0
   sysdig:
-  - created: 2018-05-20T20:56:49.67106898Z
+  - created: 2018-05-22T16:26:42.150029429Z
     description: Sysdig Monitor and Secure agent
     digest: f53b7f2e3475071a322c0694102d3b1ede0d8c23cb63fa354c4dbb8144504b8b
     home: https://www.sysdig.com/
@@ -49695,7 +49764,7 @@ entries:
     version: 0.2.0
   telegraf:
   - appVersion: "1.5"
-    created: 2018-05-20T20:56:49.673690888Z
+    created: 2018-05-22T16:26:42.150577509Z
     deprecated: true
     description: Telegraf is an agent written in Go for collecting, processing, aggregating,
       and writing metrics.
@@ -49864,7 +49933,7 @@ entries:
   tensorflow-notebook:
   - apiVersion: v1
     appVersion: 1.6.0
-    created: 2018-05-20T20:56:49.674443261Z
+    created: 2018-05-22T16:26:42.150929099Z
     description: A Helm chart for tensorflow notebook and tensorboard
     digest: ecd21388d6b0f7199bf5e46cbce4d38d99492c97776be46e0045114f557a3464
     home: https://www.tensorflow.org
@@ -49896,7 +49965,7 @@ entries:
     version: 0.1.0
   tensorflow-serving:
   - appVersion: 1.14.0
-    created: 2018-05-20T20:56:49.675580928Z
+    created: 2018-05-22T16:26:42.151835691Z
     description: TensorFlow Serving is an open-source software library for serving
       machine learning models.
     digest: 7b9f9871dc13a5ed5cf237a4daf78b563e7ba6febb39cf35ce59117009404b5b
@@ -49927,7 +49996,7 @@ entries:
     version: 0.1.0
   testlink:
   - appVersion: 1.9.17
-    created: 2018-05-20T20:56:49.676485543Z
+    created: 2018-05-22T16:26:42.152650375Z
     description: Web-based test management system that facilitates software quality
       assurance.
     digest: aafbc1edd5ed5cc8389d2d943e79904e2446dfec0f0a0ca6b61136e1461f3233
@@ -50552,7 +50621,7 @@ entries:
   traefik:
   - apiVersion: v1
     appVersion: 1.6.0
-    created: 2018-05-20T20:56:49.677408898Z
+    created: 2018-05-22T16:26:42.153765414Z
     description: A Traefik based Kubernetes ingress controller with Let's Encrypt
       support
     digest: 58d3b5906d032c9af9a1dd17f8dd419fa3cca289309532fa107483b2bcce243a
@@ -52166,7 +52235,7 @@ entries:
   uchiwa:
   - apiVersion: v1
     appVersion: "0.22"
-    created: 2018-05-20T20:56:49.678324777Z
+    created: 2018-05-22T16:26:42.154686371Z
     description: Dashboard for the Sensu monitoring framework
     digest: fa921b1b4b19f48e4d4d38adb89dd7276ece105ae54977046f2efe42c97d169f
     engine: gotpl
@@ -52368,7 +52437,7 @@ entries:
   unbound:
   - apiVersion: v1
     appVersion: 1.6.7
-    created: 2018-05-20T20:56:49.678732813Z
+    created: 2018-05-22T16:26:42.155082538Z
     description: Unbound is a fast caching DNS resolver
     digest: 4f58d399abb4aa43bd25197d8ea4d84026248d2530d28df3cadaab8dd93e77ba
     home: https://www.unbound.net/
@@ -52420,7 +52489,7 @@ entries:
   verdaccio:
   - apiVersion: v1
     appVersion: 2.7.3
-    created: 2018-05-20T20:56:49.67920467Z
+    created: 2018-05-22T16:26:42.155626222Z
     description: A lightweight private npm proxy registry (sinopia fork)
     digest: f72236416a8965842de84ca3ce366b035c659e90800e314f7ee805534160d71d
     home: http://www.verdaccio.org
@@ -52570,7 +52639,7 @@ entries:
   voyager:
   - apiVersion: v1
     appVersion: 6.0.0
-    created: 2018-05-20T20:56:49.679664712Z
+    created: 2018-05-22T16:26:42.156073137Z
     deprecated: true
     description: DEPRECATED Voyager by AppsCode - Secure Ingress Controller for Kubernetes
     digest: 8e2cb51240ed75bb861e0a6910f4783f9e3f7ba8be7a4149c659a51dabe2ca45
@@ -52769,7 +52838,7 @@ entries:
   weave-cloud:
   - apiVersion: v1
     appVersion: 0.2.0
-    created: 2018-05-20T20:56:49.680024837Z
+    created: 2018-05-22T16:26:42.156496128Z
     description: |
       Weave Cloud is a add-on to Kubernetes which provides Continuous Delivery, along with hosted Prometheus Monitoring and a visual dashboard for exploring & debugging microservices
     digest: 949e942eec39e470855b2878dd3b865fd6f75ce56d9dff3560065e7287d2af17
@@ -52863,9 +52932,9 @@ entries:
     version: 0.1.0
   weave-scope:
   - appVersion: 1.6.5
-    created: 2018-05-20T20:56:49.680768542Z
+    created: 2018-05-22T16:26:42.157191687Z
     description: A Helm chart for the Weave Scope cluster visualizer.
-    digest: 232d1e92c360a30b71d840bd5054a0111a6d5b328bc2103c7c9b3bf891df4401
+    digest: 46bcd44667e550925b2bfd1665a0807e25b0978166dbb86fa15ea93cc7c520a7
     home: https://www.weave.works/oss/scope/
     icon: https://avatars1.githubusercontent.com/u/9976052?s=64
     keywords:
@@ -52901,6 +52970,30 @@ entries:
     - https://kubernetes-charts.storage.googleapis.com/weave-scope-0.9.1.tgz
     version: 0.9.1
   wordpress:
+  - appVersion: 4.9.6
+    created: 2018-05-22T16:26:42.158463772Z
+    description: Web publishing platform for building blogs and websites.
+    digest: cade45b86da5930858c98131b1a4185fefd1a80148cc4af2257c97cf17949797
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - https://kubernetes-charts.storage.googleapis.com/wordpress-1.0.7.tgz
+    version: 1.0.7
   - appVersion: 4.9.5
     created: 2018-05-20T20:56:49.681875325Z
     description: Web publishing platform for building blogs and websites.
@@ -54367,7 +54460,7 @@ entries:
   zeppelin:
   - apiVersion: v1
     appVersion: 0.7.2
-    created: 2018-05-20T20:56:49.682199015Z
+    created: 2018-05-22T16:26:42.158774099Z
     description: Web-based notebook that enables data-driven, interactive data analytics
       and collaborative documents with SQL, Scala and more.
     digest: 0876b7e69c551ee373937571fe0252f3b306482029815f951a11e5d2781fb22f
@@ -54402,7 +54495,7 @@ entries:
   zetcd:
   - apiVersion: v1
     appVersion: 0.0.3
-    created: 2018-05-20T20:56:49.682974067Z
+    created: 2018-05-22T16:26:42.159437257Z
     description: CoreOS zetcd Helm chart for Kubernetes
     digest: 7d15e3b6d562fd687754381521493ee5b07bbc833f250e7e007d951acfe71966
     home: https://github.com/coreos/zetcd
@@ -54526,4 +54619,4 @@ entries:
     urls:
     - https://kubernetes-charts.storage.googleapis.com/zetcd-0.1.0.tgz
     version: 0.1.0
-generated: 2018-05-20T20:56:49.542932648Z
+generated: 2018-05-22T16:26:41.991142364Z
